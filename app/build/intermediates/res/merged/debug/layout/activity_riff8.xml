@@ -59,16 +59,18 @@ which has more detailed comments.  See activity_riff1.xml for more detailed comm
         android:layout_gravity="center"
         android:background="@drawable/playbuttonsel"
         android:text="" />
-    
-    <com.google.android.gms.ads.AdView
-        	android:id="@+id/adView"
-        	android:layout_width="wrap_content"
-        	android:layout_height="wrap_content"
-        	android:layout_marginTop="20dp"
-        	android:layout_gravity="center_horizontal"
-        	ads:adSize="BANNER"
-        	ads:adUnitId="@string/riff8banner">
-    	</com.google.android.gms.ads.AdView>
+
+	<!--
+         <com.google.android.gms.ads.AdView
+             android:id="@+id/adView"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_marginTop="20dp"
+             android:layout_gravity="center_horizontal"
+             ads:adSize="BANNER"
+             ads:adUnitId="@string/riff1banner">
+         </com.google.android.gms.ads.AdView>
+         -->
 
     <Button
         android:id="@+id/backbutton"

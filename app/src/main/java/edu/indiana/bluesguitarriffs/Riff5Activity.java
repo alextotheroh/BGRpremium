@@ -53,10 +53,10 @@ public class Riff5Activity extends Activity {
             	Riff5Activity.this.startActivity(goBackIntent); // goes back to main screen
             }
         });
-        
-        AdView mAdView = (AdView) findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().build();
-        mAdView.loadAd(adRequest);
+
+		//AdView mAdView = (AdView) findViewById(R.id.adView);
+		//AdRequest adRequest = new AdRequest.Builder().build();
+		//mAdView.loadAd(adRequest);
 	}
 
 	@Override

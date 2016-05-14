@@ -53,10 +53,11 @@ public class Riff1Activity extends Activity {
             	Riff1Activity.this.startActivity(goBackIntent); // goes back to main screen
             }
         });
-        
-        AdView mAdView = (AdView) findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().build();
-        mAdView.loadAd(adRequest);
+
+		// no ads needed in premium version
+        //AdView mAdView = (AdView) findViewById(R.id.adView);
+        //AdRequest adRequest = new AdRequest.Builder().build();
+        //mAdView.loadAd(adRequest);
 	}
 
 	@Override
