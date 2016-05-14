@@ -61,7 +61,8 @@ Part of: BluesGuitarRiffs, refers to Riff1Activity.java
     	    android:layout_gravity="center"
     	    android:background="@drawable/playbuttonsel"
     	    android:text="" />
-    	
+
+		<!--
     	<com.google.android.gms.ads.AdView
         	android:id="@+id/adView"
         	android:layout_width="wrap_content"
@@ -71,6 +72,7 @@ Part of: BluesGuitarRiffs, refers to Riff1Activity.java
         	ads:adSize="BANNER"
         	ads:adUnitId="@string/riff1banner">
     	</com.google.android.gms.ads.AdView>
+    	-->
 
     	<!-- back button is a button with the background set to an image in the drawable folder -->
     	<Button

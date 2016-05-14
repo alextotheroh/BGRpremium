@@ -268,7 +268,9 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
 		</LinearLayout>
 		
 	</ScrollView>
-	
+
+	<!-- commented out because no ads needed in premium version -->
+	<!--
 	<LinearLayout
     	android:id="@+id/LinearLayout2"
     	android:layout_width="match_parent"
@@ -290,6 +292,7 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
         		ads:adSize="BANNER">
     		</com.google.android.gms.ads.AdView>
 		
-		</LinearLayout>
+	</LinearLayout>
+	-->
 	
 	</RelativeLayout>

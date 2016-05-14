@@ -4,28 +4,28 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="196979404366724" >
+    timestamp="197981030383636" >
 
     <task
         name="javac"
-        duration="1446" />
+        duration="1880" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="1640" />
+        duration="1592" />
     <task
         name="verifier"
-        duration="503" />
+        duration="649" />
 
     <artifact
-        location="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\outputs\apk\app-debug.apk"
+        location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\outputs\apk\app-debug.apk"
         type="MAIN" />
 
-    <build timestamp="196979404366724" >
+    <build timestamp="197981030383636" >
         <artifact
-            location="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\outputs\apk\app-debug.apk"
+            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
     </build>
 

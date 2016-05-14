@@ -45,9 +45,10 @@ public class MainActivity extends Activity {
         final TextView rateDismiss = (TextView)this.findViewById(R.id.dismissRateBeg);
         
         // load ad
-   	 	AdView mAdView = (AdView) findViewById(R.id.adView);
-        AdRequest adRequest = new AdRequest.Builder().build();
-        mAdView.loadAd(adRequest);
+        // not required for premium version
+   	 	//AdView mAdView = (AdView) findViewById(R.id.adView);
+        //AdRequest adRequest = new AdRequest.Builder().build();
+        //mAdView.loadAd(adRequest);
         
         // if user has dismissed rating beg, get rid of the buttons:
         final SharedPreferences prefs = this.getSharedPreferences(

@@ -12,7 +12,7 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
 
 <resources>
 
-    <string name="app_name">BluesGuitarRiffs</string>
+    <string name="app_name">BluesGuitarRiffsPremium</string>
     <string name="appTitle">Blues Guitar Riffs</string>
     <string name="HomeTitle">Pick a riff to get started!  All riffs are in the key of C minor blues.</string>
     <string name="action_settings">Settings</string>
