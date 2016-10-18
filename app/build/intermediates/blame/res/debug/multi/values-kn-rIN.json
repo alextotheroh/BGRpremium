@@ -1,23 +1,23 @@
 [
     {
-        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
+        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-kn-rIN\\values-kn-rIN.xml",
         "map": [
             {
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 105,
+                    "startOffset": 55,
                     "endColumn": 117,
-                    "endOffset": 218
+                    "endOffset": 168
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 295,
+                        "startOffset": 55,
                         "endColumn": 117,
-                        "endOffset": 408
+                        "endOffset": 168
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 223,
-                    "endColumn": 111,
-                    "endOffset": 330
+                    "startOffset": 173,
+                    "endColumn": 107,
+                    "endOffset": 276
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 413,
-                        "endColumn": 111,
-                        "endOffset": 520
+                        "startOffset": 173,
+                        "endColumn": 107,
+                        "endOffset": 276
                     }
                 }
             },
@@ -44,18 +44,18 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 335,
-                    "endColumn": 112,
-                    "endOffset": 443
+                    "startOffset": 281,
+                    "endColumn": 122,
+                    "endOffset": 399
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 525,
-                        "endColumn": 112,
-                        "endOffset": 633
+                        "startOffset": 281,
+                        "endColumn": 122,
+                        "endOffset": 399
                     }
                 }
             },
@@ -63,18 +63,18 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 448,
-                    "endColumn": 87,
-                    "endOffset": 531
+                    "startOffset": 404,
+                    "endColumn": 111,
+                    "endOffset": 511
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 638,
-                        "endColumn": 87,
-                        "endOffset": 721
+                        "startOffset": 404,
+                        "endColumn": 111,
+                        "endOffset": 511
                     }
                 }
             },
@@ -82,973 +82,37 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 536,
-                    "endColumn": 106,
-                    "endOffset": 638
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 726,
-                        "endColumn": 106,
-                        "endOffset": 828
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 643,
-                    "endColumn": 126,
-                    "endOffset": 765
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 833,
-                        "endColumn": 126,
-                        "endOffset": 955
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 770,
-                    "endColumn": 115,
-                    "endOffset": 881
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 960,
-                        "endColumn": 115,
-                        "endOffset": 1071
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 886,
-                    "endColumn": 110,
-                    "endOffset": 992
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1076,
-                        "endColumn": 110,
-                        "endOffset": 1182
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 997,
-                    "endColumn": 98,
-                    "endOffset": 1091
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1187,
-                        "endColumn": 98,
-                        "endOffset": 1281
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 1096,
+                    "startOffset": 516,
                     "endColumn": 112,
-                    "endOffset": 1204
+                    "endOffset": 624
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 1286,
+                        "startOffset": 516,
                         "endColumn": 112,
-                        "endOffset": 1394
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 1209,
-                    "endColumn": 103,
-                    "endOffset": 1308
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1399,
-                        "endColumn": 103,
-                        "endOffset": 1498
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1313,
-                    "endColumn": 113,
-                    "endOffset": 1422
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1503,
-                        "endColumn": 113,
-                        "endOffset": 1612
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1427,
-                    "endColumn": 125,
-                    "endOffset": 1548
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1617,
-                        "endColumn": 125,
-                        "endOffset": 1738
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1553,
-                    "endColumn": 188,
-                    "endOffset": 1737
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 469,
-                        "endColumn": 192,
-                        "endOffset": 657
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1742,
-                    "endColumn": 183,
-                    "endOffset": 1921
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2628,
-                        "endColumn": 187,
-                        "endOffset": 2811
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1926,
-                    "endColumn": 118,
-                    "endOffset": 2040
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2314,
-                        "endColumn": 118,
-                        "endOffset": 2428
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 2045,
-                    "endColumn": 255,
-                    "endOffset": 2296
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4484,
-                        "endColumn": 259,
-                        "endOffset": 4739
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 2301,
-                    "endColumn": 135,
-                    "endOffset": 2432
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 2041,
-                        "endColumn": 135,
-                        "endOffset": 2172
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 2437,
-                    "endColumn": 201,
-                    "endOffset": 2634
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1835,
-                        "endColumn": 205,
-                        "endOffset": 2036
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2639,
-                    "endColumn": 133,
-                    "endOffset": 2768
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1701,
-                        "endColumn": 133,
-                        "endOffset": 1830
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2773,
-                    "endColumn": 174,
-                    "endOffset": 2943
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 828,
-                        "endColumn": 178,
-                        "endOffset": 1002
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2948,
-                    "endColumn": 131,
-                    "endOffset": 3075
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1569,
-                        "endColumn": 131,
-                        "endOffset": 1696
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 3080,
-                    "endColumn": 209,
-                    "endOffset": 3285
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1136,
-                        "endColumn": 213,
-                        "endOffset": 1345
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 3290,
-                    "endColumn": 214,
-                    "endOffset": 3500
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1350,
-                        "endColumn": 218,
-                        "endOffset": 1564
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 3505,
-                    "endColumn": 128,
-                    "endOffset": 3629
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 1007,
-                        "endColumn": 128,
-                        "endOffset": 1131
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 3634,
-                    "endColumn": 196,
-                    "endOffset": 3826
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3574,
-                        "endColumn": 196,
-                        "endOffset": 3766
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 3831,
-                    "endColumn": 122,
-                    "endOffset": 3949
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3451,
-                        "endColumn": 122,
-                        "endOffset": 3569
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 3954,
-                    "endColumn": 165,
-                    "endOffset": 4115
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 662,
-                        "endColumn": 165,
-                        "endOffset": 823
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 4120,
-                    "endColumn": 164,
-                    "endOffset": 4280
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3286,
-                        "endColumn": 164,
-                        "endOffset": 3446
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 4285,
-                    "endColumn": 120,
-                    "endOffset": 4401
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3165,
-                        "endColumn": 120,
-                        "endOffset": 3281
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 4406,
-                    "endColumn": 169,
-                    "endOffset": 4571
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 299,
-                        "endColumn": 169,
-                        "endOffset": 464
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 4576,
-                    "endColumn": 128,
-                    "endOffset": 4700
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 128,
-                        "endOffset": 294
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 4705,
-                    "endColumn": 183,
-                    "endOffset": 4884
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 4871,
-                        "endColumn": 183,
-                        "endOffset": 5050
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 4889,
-                    "endColumn": 126,
-                    "endOffset": 5011
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 4744,
-                        "endColumn": 126,
-                        "endOffset": 4866
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 5016,
-                    "endColumn": 136,
-                    "endOffset": 5148
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3771,
-                        "endColumn": 136,
-                        "endOffset": 3903
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 5153,
-                    "endColumn": 234,
-                    "endOffset": 5383
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 4032,
-                        "endColumn": 238,
-                        "endOffset": 4266
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 5388,
-                    "endColumn": 123,
-                    "endOffset": 5507
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3908,
-                        "endColumn": 123,
-                        "endOffset": 4027
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 5512,
-                    "endColumn": 114,
-                    "endOffset": 5622
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 4271,
-                        "endColumn": 114,
-                        "endOffset": 4381
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 5627,
-                    "endColumn": 190,
-                    "endOffset": 5813
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 2433,
-                        "endColumn": 194,
-                        "endOffset": 2623
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 5818,
-                    "endColumn": 136,
-                    "endOffset": 5950
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2177,
-                        "endColumn": 136,
-                        "endOffset": 2309
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 5955,
-                    "endColumn": 203,
-                    "endOffset": 6154
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2957,
-                        "endColumn": 207,
-                        "endOffset": 3160
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 6159,
-                    "endColumn": 140,
-                    "endOffset": 6295
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 19,
-                        "startColumn": 4,
-                        "startOffset": 2816,
-                        "endColumn": 140,
-                        "endOffset": 2952
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 6300,
-                    "endColumn": 97,
-                    "endOffset": 6393
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-kn-rIN\\common_strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4386,
-                        "endColumn": 97,
-                        "endOffset": 4479
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 6398,
-                    "endColumn": 115,
-                    "endOffset": 6509
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 297,
-                        "endColumn": 115,
-                        "endOffset": 408
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 6514,
-                    "endColumn": 118,
-                    "endOffset": 6628
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 413,
-                        "endColumn": 118,
-                        "endOffset": 527
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 6633,
-                    "endColumn": 107,
-                    "endOffset": 6736
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 532,
-                        "endColumn": 107,
-                        "endOffset": 635
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 6741,
-                    "endColumn": 111,
-                    "endOffset": 6848
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 640,
-                        "endColumn": 111,
-                        "endOffset": 747
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6853,
-                    "endColumn": 85,
-                    "endOffset": 6934
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 752,
-                        "endColumn": 85,
-                        "endOffset": 833
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 6939,
-                    "endColumn": 93,
-                    "endOffset": 7028
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 838,
-                        "endColumn": 93,
-                        "endOffset": 927
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\values-kn-rIN\\values-kn-rIN.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 117,
-                    "endOffset": 218
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 280,
-                        "endColumn": 117,
-                        "endOffset": 393
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 223,
-                    "endColumn": 107,
-                    "endOffset": 326
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 398,
-                        "endColumn": 107,
-                        "endOffset": 501
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 331,
-                    "endColumn": 122,
-                    "endOffset": 449
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 506,
-                        "endColumn": 122,
                         "endOffset": 624
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 454,
-                    "endColumn": 111,
-                    "endOffset": 561
+                    "startOffset": 629,
+                    "endColumn": 87,
+                    "endOffset": 712
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
                         "startOffset": 629,
-                        "endColumn": 111,
-                        "endOffset": 736
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 566,
-                    "endColumn": 112,
-                    "endOffset": 674
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 741,
-                        "endColumn": 112,
-                        "endOffset": 849
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 679,
-                    "endColumn": 87,
-                    "endOffset": 762
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 854,
                         "endColumn": 87,
-                        "endOffset": 937
+                        "endOffset": 712
                     }
                 }
             },
@@ -1056,18 +120,18 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 767,
+                    "startOffset": 717,
                     "endColumn": 106,
-                    "endOffset": 869
+                    "endOffset": 819
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 942,
+                        "startOffset": 717,
                         "endColumn": 106,
-                        "endOffset": 1044
+                        "endOffset": 819
                     }
                 }
             },
@@ -1075,18 +139,18 @@
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 874,
+                    "startOffset": 824,
                     "endColumn": 126,
-                    "endOffset": 996
+                    "endOffset": 946
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 1049,
+                        "startOffset": 824,
                         "endColumn": 126,
-                        "endOffset": 1171
+                        "endOffset": 946
                     }
                 }
             },
@@ -1094,18 +158,18 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 1001,
-                    "endColumn": 81,
-                    "endOffset": 1078
+                    "startOffset": 951,
+                    "endColumn": 76,
+                    "endOffset": 1023
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1176,
-                        "endColumn": 81,
-                        "endOffset": 1253
+                        "startOffset": 951,
+                        "endColumn": 76,
+                        "endOffset": 1023
                     }
                 }
             },
@@ -1113,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 1083,
-                    "endColumn": 115,
-                    "endOffset": 1194
+                    "startOffset": 1028,
+                    "endColumn": 76,
+                    "endOffset": 1100
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1258,
-                        "endColumn": 115,
-                        "endOffset": 1369
+                        "startOffset": 1028,
+                        "endColumn": 76,
+                        "endOffset": 1100
                     }
                 }
             },
@@ -1132,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1199,
-                    "endColumn": 110,
-                    "endOffset": 1305
+                    "startOffset": 1105,
+                    "endColumn": 81,
+                    "endOffset": 1182
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1374,
-                        "endColumn": 110,
-                        "endOffset": 1480
+                        "startOffset": 1105,
+                        "endColumn": 81,
+                        "endOffset": 1182
                     }
                 }
             },
@@ -1151,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1310,
-                    "endColumn": 98,
-                    "endOffset": 1404
+                    "startOffset": 1187,
+                    "endColumn": 115,
+                    "endOffset": 1298
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1485,
-                        "endColumn": 98,
-                        "endOffset": 1579
+                        "startOffset": 1187,
+                        "endColumn": 115,
+                        "endOffset": 1298
                     }
                 }
             },
@@ -1170,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1409,
-                    "endColumn": 112,
-                    "endOffset": 1517
+                    "startOffset": 1303,
+                    "endColumn": 110,
+                    "endOffset": 1409
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1584,
-                        "endColumn": 112,
-                        "endOffset": 1692
+                        "startOffset": 1303,
+                        "endColumn": 110,
+                        "endOffset": 1409
                     }
                 }
             },
@@ -1189,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1522,
-                    "endColumn": 103,
-                    "endOffset": 1621
+                    "startOffset": 1414,
+                    "endColumn": 98,
+                    "endOffset": 1508
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1697,
-                        "endColumn": 103,
-                        "endOffset": 1796
+                        "startOffset": 1414,
+                        "endColumn": 98,
+                        "endOffset": 1508
                     }
                 }
             },
@@ -1208,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1626,
-                    "endColumn": 113,
-                    "endOffset": 1735
+                    "startOffset": 1513,
+                    "endColumn": 112,
+                    "endOffset": 1621
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1801,
-                        "endColumn": 113,
-                        "endOffset": 1910
+                        "startOffset": 1513,
+                        "endColumn": 112,
+                        "endOffset": 1621
                     }
                 }
             },
@@ -1227,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1740,
-                    "endColumn": 125,
-                    "endOffset": 1861
+                    "startOffset": 1626,
+                    "endColumn": 103,
+                    "endOffset": 1725
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1915,
-                        "endColumn": 125,
-                        "endOffset": 2036
+                        "startOffset": 1626,
+                        "endColumn": 103,
+                        "endOffset": 1725
                     }
                 }
             },
@@ -1246,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1866,
-                    "endColumn": 99,
-                    "endOffset": 1961
+                    "startOffset": 1730,
+                    "endColumn": 113,
+                    "endOffset": 1839
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 2041,
-                        "endColumn": 99,
-                        "endOffset": 2136
+                        "startOffset": 1730,
+                        "endColumn": 113,
+                        "endOffset": 1839
                     }
                 }
             },
@@ -1265,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1966,
-                    "endColumn": 259,
-                    "endOffset": 2221
+                    "startOffset": 1844,
+                    "endColumn": 125,
+                    "endOffset": 1965
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 24,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 3520,
-                        "endColumn": 263,
-                        "endOffset": 3779
+                        "startOffset": 1844,
+                        "endColumn": 125,
+                        "endOffset": 1965
                     }
                 }
             },
@@ -1284,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 2226,
-                    "endColumn": 135,
-                    "endOffset": 2357
+                    "startOffset": 1970,
+                    "endColumn": 99,
+                    "endOffset": 2065
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1335,
-                        "endColumn": 135,
-                        "endOffset": 1466
+                        "startOffset": 1970,
+                        "endColumn": 99,
+                        "endOffset": 2065
                     }
                 }
             },
@@ -1303,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2362,
-                    "endColumn": 201,
-                    "endOffset": 2559
+                    "startOffset": 2070,
+                    "endColumn": 103,
+                    "endOffset": 2169
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 1129,
-                        "endColumn": 205,
-                        "endOffset": 1330
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
                     }
                 }
             },
@@ -1322,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2564,
-                    "endColumn": 134,
-                    "endOffset": 2694
+                    "startOffset": 2174,
+                    "endColumn": 105,
+                    "endOffset": 2275
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 994,
-                        "endColumn": 134,
-                        "endOffset": 1124
+                        "startOffset": 159,
+                        "endColumn": 105,
+                        "endOffset": 260
                     }
                 }
             },
@@ -1341,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2699,
-                    "endColumn": 131,
-                    "endOffset": 2826
+                    "startOffset": 2280,
+                    "endColumn": 90,
+                    "endOffset": 2366
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 862,
-                        "endColumn": 131,
-                        "endOffset": 989
+                        "startOffset": 265,
+                        "endColumn": 90,
+                        "endOffset": 351
                     }
                 }
             },
@@ -1360,18 +424,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2831,
-                    "endColumn": 208,
-                    "endOffset": 3035
+                    "startOffset": 2371,
+                    "endColumn": 92,
+                    "endOffset": 2459
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 430,
-                        "endColumn": 212,
-                        "endOffset": 638
+                        "startOffset": 356,
+                        "endColumn": 92,
+                        "endOffset": 444
                     }
                 }
             },
@@ -1379,18 +443,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 3040,
-                    "endColumn": 214,
-                    "endOffset": 3250
+                    "startOffset": 2464,
+                    "endColumn": 115,
+                    "endOffset": 2575
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 643,
-                        "endColumn": 218,
-                        "endOffset": 857
+                        "startOffset": 449,
+                        "endColumn": 115,
+                        "endOffset": 560
                     }
                 }
             },
@@ -1398,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 3255,
-                    "endColumn": 130,
-                    "endOffset": 3381
+                    "startOffset": 2580,
+                    "endColumn": 96,
+                    "endOffset": 2672
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 299,
-                        "endColumn": 130,
-                        "endOffset": 425
+                        "startOffset": 565,
+                        "endColumn": 96,
+                        "endOffset": 657
                     }
                 }
             },
@@ -1417,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 3386,
-                    "endColumn": 189,
-                    "endOffset": 3571
+                    "startOffset": 2677,
+                    "endColumn": 95,
+                    "endOffset": 2768
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 2756,
-                        "endColumn": 189,
-                        "endOffset": 2941
+                        "startOffset": 662,
+                        "endColumn": 95,
+                        "endOffset": 753
                     }
                 }
             },
@@ -1436,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3576,
-                    "endColumn": 119,
-                    "endOffset": 3691
+                    "startOffset": 2773,
+                    "endColumn": 100,
+                    "endOffset": 2869
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 2636,
-                        "endColumn": 119,
-                        "endOffset": 2751
+                        "startOffset": 758,
+                        "endColumn": 100,
+                        "endOffset": 854
                     }
                 }
             },
@@ -1455,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3696,
-                    "endColumn": 164,
-                    "endOffset": 3856
+                    "startOffset": 2874,
+                    "endColumn": 94,
+                    "endOffset": 2964
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 2471,
-                        "endColumn": 164,
-                        "endOffset": 2631
+                        "startOffset": 859,
+                        "endColumn": 94,
+                        "endOffset": 949
                     }
                 }
             },
@@ -1474,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3861,
-                    "endColumn": 120,
-                    "endOffset": 3977
+                    "startOffset": 2969,
+                    "endColumn": 113,
+                    "endOffset": 3078
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 2350,
-                        "endColumn": 120,
-                        "endOffset": 2466
+                        "startOffset": 954,
+                        "endColumn": 113,
+                        "endOffset": 1063
                     }
                 }
             },
@@ -1493,18 +557,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3982,
-                    "endColumn": 128,
-                    "endOffset": 4106
+                    "startOffset": 3083,
+                    "endColumn": 119,
+                    "endOffset": 3198
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 128,
-                        "endOffset": 294
+                        "startOffset": 1068,
+                        "endColumn": 119,
+                        "endOffset": 1183
                     }
                 }
             },
@@ -1512,18 +576,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 4111,
-                    "endColumn": 170,
-                    "endOffset": 4277
+                    "startOffset": 3203,
+                    "endColumn": 83,
+                    "endOffset": 3282
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 4227,
-                        "endColumn": 170,
-                        "endOffset": 4393
+                        "startOffset": 1188,
+                        "endColumn": 83,
+                        "endOffset": 1267
                     }
                 }
             },
@@ -1531,18 +595,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 4282,
-                    "endColumn": 129,
-                    "endOffset": 4407
+                    "startOffset": 3287,
+                    "endColumn": 85,
+                    "endOffset": 3368
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 4097,
-                        "endColumn": 129,
-                        "endOffset": 4222
+                        "startOffset": 1272,
+                        "endColumn": 85,
+                        "endOffset": 1353
                     }
                 }
             },
@@ -1550,18 +614,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 4412,
-                    "endColumn": 185,
-                    "endOffset": 4593
+                    "startOffset": 3373,
+                    "endColumn": 99,
+                    "endOffset": 3468
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 3911,
-                        "endColumn": 185,
-                        "endOffset": 4092
+                        "startOffset": 1358,
+                        "endColumn": 99,
+                        "endOffset": 1453
                     }
                 }
             },
@@ -1569,18 +633,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 4598,
-                    "endColumn": 126,
-                    "endOffset": 4720
+                    "startOffset": 3473,
+                    "endColumn": 85,
+                    "endOffset": 3554
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 3784,
-                        "endColumn": 126,
-                        "endOffset": 3906
+                        "startOffset": 1458,
+                        "endColumn": 85,
+                        "endOffset": 1539
                     }
                 }
             },
@@ -1588,18 +652,18 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4725,
-                    "endColumn": 250,
-                    "endOffset": 4971
+                    "startOffset": 3559,
+                    "endColumn": 93,
+                    "endOffset": 3648
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-kn-rIN\\common_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 254,
-                        "endOffset": 420
+                        "startOffset": 1544,
+                        "endColumn": 93,
+                        "endOffset": 1633
                     }
                 }
             },
@@ -1607,474 +671,18 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 4976,
-                    "endColumn": 233,
-                    "endOffset": 5205
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 3069,
-                        "endColumn": 237,
-                        "endOffset": 3302
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 5210,
-                    "endColumn": 122,
-                    "endOffset": 5328
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2946,
-                        "endColumn": 122,
-                        "endOffset": 3064
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 5333,
-                    "endColumn": 114,
-                    "endOffset": 5443
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 3307,
-                        "endColumn": 114,
-                        "endOffset": 3417
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 5448,
-                    "endColumn": 195,
-                    "endOffset": 5639
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1608,
-                        "endColumn": 199,
-                        "endOffset": 1803
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 5644,
-                    "endColumn": 136,
-                    "endOffset": 5776
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1471,
-                        "endColumn": 136,
-                        "endOffset": 1603
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 5781,
-                    "endColumn": 203,
-                    "endOffset": 5980
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 2142,
-                        "endColumn": 207,
-                        "endOffset": 2345
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 5985,
-                    "endColumn": 146,
-                    "endOffset": 6127
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1995,
-                        "endColumn": 146,
-                        "endOffset": 2137
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 6132,
-                    "endColumn": 186,
-                    "endOffset": 6314
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1808,
-                        "endColumn": 186,
-                        "endOffset": 1990
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 6319,
-                    "endColumn": 97,
-                    "endOffset": 6412
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 3422,
-                        "endColumn": 97,
-                        "endOffset": 3515
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 6417,
-                    "endColumn": 92,
-                    "endOffset": 6505
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 4398,
-                        "endColumn": 92,
-                        "endOffset": 4486
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 47,
-                    "startColumn": 4,
-                    "startOffset": 6510,
-                    "endColumn": 114,
-                    "endOffset": 6620
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-kn-rIN\\base_strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 4491,
-                        "endColumn": 114,
-                        "endOffset": 4601
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 6625,
-                    "endColumn": 105,
-                    "endOffset": 6726
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 105,
-                        "endOffset": 383
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 6731,
-                    "endColumn": 118,
-                    "endOffset": 6845
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 388,
-                        "endColumn": 118,
-                        "endOffset": 502
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 6850,
-                    "endColumn": 107,
-                    "endOffset": 6953
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 507,
-                        "endColumn": 107,
-                        "endOffset": 610
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 6958,
-                    "endColumn": 111,
-                    "endOffset": 7065
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 615,
-                        "endColumn": 111,
-                        "endOffset": 722
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 52,
-                    "startColumn": 4,
-                    "startOffset": 7070,
-                    "endColumn": 125,
-                    "endOffset": 7191
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 727,
-                        "endColumn": 125,
-                        "endOffset": 848
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 53,
-                    "startColumn": 4,
-                    "startOffset": 7196,
-                    "endColumn": 95,
-                    "endOffset": 7287
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 853,
-                        "endColumn": 95,
-                        "endOffset": 944
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 7292,
-                    "endColumn": 98,
-                    "endOffset": 7386
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 949,
-                        "endColumn": 98,
-                        "endOffset": 1043
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 55,
-                    "startColumn": 4,
-                    "startOffset": 7391,
-                    "endColumn": 123,
-                    "endOffset": 7510
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1048,
-                        "endColumn": 123,
-                        "endOffset": 1167
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 56,
-                    "startColumn": 4,
-                    "startOffset": 7515,
-                    "endColumn": 111,
-                    "endOffset": 7622
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1172,
-                        "endColumn": 111,
-                        "endOffset": 1279
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 7627,
-                    "endColumn": 85,
-                    "endOffset": 7708
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1284,
-                        "endColumn": 85,
-                        "endOffset": 1365
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 58,
-                    "startColumn": 4,
-                    "startOffset": 7713,
-                    "endColumn": 93,
-                    "endOffset": 7802
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1370,
-                        "endColumn": 93,
-                        "endOffset": 1459
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 59,
-                    "startColumn": 4,
-                    "startOffset": 7807,
-                    "endColumn": 109,
-                    "endOffset": 7912
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 326,
-                        "endColumn": 109,
-                        "endOffset": 431
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 60,
-                    "startColumn": 4,
-                    "startOffset": 7917,
-                    "endColumn": 95,
-                    "endOffset": 8008
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-kn-rIN\\location_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 230,
-                        "endColumn": 95,
-                        "endOffset": 321
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 61,
-                    "startColumn": 4,
-                    "startOffset": 8013,
+                    "startOffset": 3653,
                     "endColumn": 100,
-                    "endOffset": 8109
+                    "endOffset": 3749
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-kn-rIN\\values-kn-rIN.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 2141,
+                        "startOffset": 2070,
                         "endColumn": 100,
-                        "endOffset": 2237
+                        "endOffset": 2166
                     }
                 }
             }

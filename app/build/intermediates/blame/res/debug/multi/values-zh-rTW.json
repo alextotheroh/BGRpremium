@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rTW\\values-zh-rTW.xml",
+        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rTW\\values-zh-rTW.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 195
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 280,
+                        "startOffset": 55,
                         "endColumn": 94,
-                        "endOffset": 370
+                        "endOffset": 145
                     }
                 }
             },
@@ -30,13 +30,13 @@
                     "endOffset": 302
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 375,
+                        "startOffset": 150,
                         "endColumn": 106,
-                        "endOffset": 477
+                        "endOffset": 252
                     }
                 }
             },
@@ -49,13 +49,13 @@
                     "endOffset": 425
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 482,
+                        "startOffset": 257,
                         "endColumn": 122,
-                        "endOffset": 600
+                        "endOffset": 375
                     }
                 }
             },
@@ -68,13 +68,13 @@
                     "endOffset": 518
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 605,
+                        "startOffset": 380,
                         "endColumn": 92,
-                        "endOffset": 693
+                        "endOffset": 468
                     }
                 }
             },
@@ -87,13 +87,13 @@
                     "endOffset": 618
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 698,
+                        "startOffset": 473,
                         "endColumn": 99,
-                        "endOffset": 793
+                        "endOffset": 568
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 700
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 798,
+                        "startOffset": 573,
                         "endColumn": 81,
-                        "endOffset": 875
+                        "endOffset": 650
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 797
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 880,
+                        "startOffset": 655,
                         "endColumn": 96,
-                        "endOffset": 972
+                        "endOffset": 747
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 905
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 977,
+                        "startOffset": 752,
                         "endColumn": 107,
-                        "endOffset": 1080
+                        "endOffset": 855
                     }
                 }
             },
@@ -159,17 +159,17 @@
                     "startLine": 10,
                     "startColumn": 4,
                     "startOffset": 910,
-                    "endColumn": 77,
-                    "endOffset": 983
+                    "endColumn": 75,
+                    "endOffset": 981
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 1085,
-                        "endColumn": 77,
-                        "endOffset": 1158
+                        "startOffset": 860,
+                        "endColumn": 75,
+                        "endOffset": 931
                     }
                 }
             },
@@ -177,18 +177,18 @@
                 "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 988,
-                    "endColumn": 95,
-                    "endOffset": 1079
+                    "startOffset": 986,
+                    "endColumn": 75,
+                    "endOffset": 1057
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1163,
-                        "endColumn": 95,
-                        "endOffset": 1254
+                        "startOffset": 936,
+                        "endColumn": 75,
+                        "endOffset": 1007
                     }
                 }
             },
@@ -196,18 +196,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 1084,
-                    "endColumn": 95,
-                    "endOffset": 1175
+                    "startOffset": 1062,
+                    "endColumn": 77,
+                    "endOffset": 1135
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1259,
-                        "endColumn": 95,
-                        "endOffset": 1350
+                        "startOffset": 1012,
+                        "endColumn": 77,
+                        "endOffset": 1085
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 1180,
-                    "endColumn": 94,
-                    "endOffset": 1270
+                    "startOffset": 1140,
+                    "endColumn": 95,
+                    "endOffset": 1231
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1355,
-                        "endColumn": 94,
-                        "endOffset": 1445
+                        "startOffset": 1090,
+                        "endColumn": 95,
+                        "endOffset": 1181
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1275,
-                    "endColumn": 96,
-                    "endOffset": 1367
+                    "startOffset": 1236,
+                    "endColumn": 95,
+                    "endOffset": 1327
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1450,
-                        "endColumn": 96,
-                        "endOffset": 1542
+                        "startOffset": 1186,
+                        "endColumn": 95,
+                        "endOffset": 1277
                     }
                 }
             },
@@ -253,18 +253,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1372,
+                    "startOffset": 1332,
                     "endColumn": 94,
-                    "endOffset": 1462
+                    "endOffset": 1422
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1547,
+                        "startOffset": 1282,
                         "endColumn": 94,
-                        "endOffset": 1637
+                        "endOffset": 1372
                     }
                 }
             },
@@ -272,18 +272,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1467,
-                    "endColumn": 99,
-                    "endOffset": 1562
+                    "startOffset": 1427,
+                    "endColumn": 96,
+                    "endOffset": 1519
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1642,
-                        "endColumn": 99,
-                        "endOffset": 1737
+                        "startOffset": 1377,
+                        "endColumn": 96,
+                        "endOffset": 1469
                     }
                 }
             },
@@ -291,18 +291,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1567,
-                    "endColumn": 112,
-                    "endOffset": 1675
+                    "startOffset": 1524,
+                    "endColumn": 94,
+                    "endOffset": 1614
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1742,
-                        "endColumn": 112,
-                        "endOffset": 1850
+                        "startOffset": 1474,
+                        "endColumn": 94,
+                        "endOffset": 1564
                     }
                 }
             },
@@ -310,18 +310,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1680,
-                    "endColumn": 93,
-                    "endOffset": 1769
+                    "startOffset": 1619,
+                    "endColumn": 99,
+                    "endOffset": 1714
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1855,
-                        "endColumn": 93,
-                        "endOffset": 1944
+                        "startOffset": 1569,
+                        "endColumn": 99,
+                        "endOffset": 1664
                     }
                 }
             },
@@ -329,18 +329,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1774,
-                    "endColumn": 192,
-                    "endOffset": 1962
+                    "startOffset": 1719,
+                    "endColumn": 112,
+                    "endOffset": 1827
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 24,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2975,
-                        "endColumn": 196,
-                        "endOffset": 3167
+                        "startOffset": 1669,
+                        "endColumn": 112,
+                        "endOffset": 1777
                     }
                 }
             },
@@ -348,18 +348,18 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1967,
-                    "endColumn": 117,
-                    "endOffset": 2080
+                    "startOffset": 1832,
+                    "endColumn": 93,
+                    "endOffset": 1921
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1166,
-                        "endColumn": 117,
-                        "endOffset": 1279
+                        "startOffset": 1782,
+                        "endColumn": 93,
+                        "endOffset": 1871
                     }
                 }
             },
@@ -367,18 +367,18 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 2085,
-                    "endColumn": 159,
-                    "endOffset": 2240
+                    "startOffset": 1926,
+                    "endColumn": 74,
+                    "endOffset": 1996
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 1002,
-                        "endColumn": 163,
-                        "endOffset": 1161
+                        "startOffset": 360,
+                        "endColumn": 74,
+                        "endOffset": 430
                     }
                 }
             },
@@ -386,18 +386,18 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 2245,
-                    "endColumn": 116,
-                    "endOffset": 2357
+                    "startOffset": 2001,
+                    "endColumn": 88,
+                    "endOffset": 2085
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 885,
-                        "endColumn": 116,
-                        "endOffset": 997
+                        "startOffset": 435,
+                        "endColumn": 88,
+                        "endOffset": 519
                     }
                 }
             },
@@ -405,18 +405,18 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 2362,
-                    "endColumn": 118,
-                    "endOffset": 2476
+                    "startOffset": 2090,
+                    "endColumn": 86,
+                    "endOffset": 2172
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 766,
-                        "endColumn": 118,
-                        "endOffset": 880
+                        "startOffset": 524,
+                        "endColumn": 86,
+                        "endOffset": 606
                     }
                 }
             },
@@ -424,18 +424,18 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2481,
-                    "endColumn": 171,
-                    "endOffset": 2648
+                    "startOffset": 2177,
+                    "endColumn": 102,
+                    "endOffset": 2275
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 411,
-                        "endColumn": 175,
-                        "endOffset": 582
+                        "startOffset": 611,
+                        "endColumn": 102,
+                        "endOffset": 709
                     }
                 }
             },
@@ -443,18 +443,18 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 2653,
-                    "endColumn": 174,
-                    "endOffset": 2823
+                    "startOffset": 2280,
+                    "endColumn": 78,
+                    "endOffset": 2354
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 587,
-                        "endColumn": 178,
-                        "endOffset": 761
+                        "startOffset": 714,
+                        "endColumn": 78,
+                        "endOffset": 788
                     }
                 }
             },
@@ -462,18 +462,18 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2828,
-                    "endColumn": 117,
-                    "endOffset": 2941
+                    "startOffset": 2359,
+                    "endColumn": 104,
+                    "endOffset": 2459
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 293,
-                        "endColumn": 117,
-                        "endOffset": 406
+                        "startOffset": 793,
+                        "endColumn": 104,
+                        "endOffset": 893
                     }
                 }
             },
@@ -481,18 +481,18 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 2946,
-                    "endColumn": 130,
-                    "endOffset": 3072
+                    "startOffset": 2464,
+                    "endColumn": 104,
+                    "endOffset": 2564
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 2340,
-                        "endColumn": 130,
-                        "endOffset": 2466
+                        "startOffset": 898,
+                        "endColumn": 104,
+                        "endOffset": 998
                     }
                 }
             },
@@ -500,18 +500,18 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 3077,
+                    "startOffset": 2569,
                     "endColumn": 109,
-                    "endOffset": 3182
+                    "endOffset": 2674
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 18,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 2230,
+                        "startOffset": 1003,
                         "endColumn": 109,
-                        "endOffset": 2335
+                        "endOffset": 1108
                     }
                 }
             },
@@ -519,18 +519,18 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 3187,
-                    "endColumn": 131,
-                    "endOffset": 3314
+                    "startOffset": 2679,
+                    "endColumn": 95,
+                    "endOffset": 2770
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 2098,
-                        "endColumn": 131,
-                        "endOffset": 2225
+                        "startOffset": 1113,
+                        "endColumn": 95,
+                        "endOffset": 1204
                     }
                 }
             },
@@ -538,18 +538,18 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 3319,
-                    "endColumn": 110,
-                    "endOffset": 3425
+                    "startOffset": 2775,
+                    "endColumn": 99,
+                    "endOffset": 2870
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 16,
+                        "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1987,
-                        "endColumn": 110,
-                        "endOffset": 2093
+                        "startOffset": 1209,
+                        "endColumn": 99,
+                        "endOffset": 1304
                     }
                 }
             },
@@ -557,18 +557,18 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 3430,
-                    "endColumn": 122,
-                    "endOffset": 3548
+                    "startOffset": 2875,
+                    "endColumn": 73,
+                    "endOffset": 2944
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 122,
-                        "endOffset": 288
+                        "startOffset": 1309,
+                        "endColumn": 73,
+                        "endOffset": 1378
                     }
                 }
             },
@@ -576,18 +576,18 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 3553,
-                    "endColumn": 129,
-                    "endOffset": 3678
+                    "startOffset": 2949,
+                    "endColumn": 81,
+                    "endOffset": 3026
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 28,
+                        "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 3530,
-                        "endColumn": 129,
-                        "endOffset": 3655
+                        "startOffset": 1383,
+                        "endColumn": 81,
+                        "endOffset": 1460
                     }
                 }
             },
@@ -595,18 +595,18 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 3683,
-                    "endColumn": 120,
-                    "endOffset": 3799
+                    "startOffset": 3031,
+                    "endColumn": 81,
+                    "endOffset": 3108
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 3409,
-                        "endColumn": 120,
-                        "endOffset": 3525
+                        "startOffset": 1465,
+                        "endColumn": 81,
+                        "endOffset": 1542
                     }
                 }
             },
@@ -614,18 +614,18 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 3804,
-                    "endColumn": 124,
-                    "endOffset": 3924
+                    "startOffset": 3113,
+                    "endColumn": 107,
+                    "endOffset": 3216
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 3284,
-                        "endColumn": 124,
-                        "endOffset": 3404
+                        "startOffset": 1547,
+                        "endColumn": 107,
+                        "endOffset": 1650
                     }
                 }
             },
@@ -633,18 +633,18 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 3929,
-                    "endColumn": 111,
-                    "endOffset": 4036
+                    "startOffset": 3221,
+                    "endColumn": 70,
+                    "endOffset": 3287
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 3172,
-                        "endColumn": 111,
-                        "endOffset": 3279
+                        "startOffset": 1655,
+                        "endColumn": 70,
+                        "endOffset": 1721
                     }
                 }
             },
@@ -652,18 +652,18 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 4041,
-                    "endColumn": 181,
-                    "endOffset": 4218
+                    "startOffset": 3292,
+                    "endColumn": 129,
+                    "endOffset": 3417
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-zh-rTW\\common_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 3,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 185,
-                        "endOffset": 351
+                        "startOffset": 350,
+                        "endColumn": 129,
+                        "endOffset": 475
                     }
                 }
             },
@@ -671,18 +671,18 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 4223,
-                    "endColumn": 193,
-                    "endOffset": 4412
+                    "startOffset": 3422,
+                    "endColumn": 131,
+                    "endOffset": 3549
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 2589,
-                        "endColumn": 197,
-                        "endOffset": 2782
+                        "startOffset": 480,
+                        "endColumn": 131,
+                        "endOffset": 607
                     }
                 }
             },
@@ -690,18 +690,18 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 4417,
-                    "endColumn": 117,
-                    "endOffset": 4530
+                    "startOffset": 3554,
+                    "endColumn": 91,
+                    "endOffset": 3641
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 2471,
-                        "endColumn": 117,
-                        "endOffset": 2584
+                        "startOffset": 612,
+                        "endColumn": 91,
+                        "endOffset": 699
                     }
                 }
             },
@@ -709,18 +709,18 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 4535,
-                    "endColumn": 102,
-                    "endOffset": 4633
+                    "startOffset": 3646,
+                    "endColumn": 71,
+                    "endOffset": 3713
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2787,
-                        "endColumn": 102,
-                        "endOffset": 2885
+                        "startOffset": 1726,
+                        "endColumn": 71,
+                        "endOffset": 1793
                     }
                 }
             },
@@ -728,18 +728,18 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 4638,
-                    "endColumn": 159,
-                    "endOffset": 4793
+                    "startOffset": 3718,
+                    "endColumn": 70,
+                    "endOffset": 3784
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 1401,
-                        "endColumn": 163,
-                        "endOffset": 1560
+                        "startOffset": 1798,
+                        "endColumn": 70,
+                        "endOffset": 1864
                     }
                 }
             },
@@ -747,18 +747,18 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 4798,
-                    "endColumn": 116,
-                    "endOffset": 4910
+                    "startOffset": 3789,
+                    "endColumn": 72,
+                    "endOffset": 3857
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1284,
-                        "endColumn": 116,
-                        "endOffset": 1396
+                        "startOffset": 1869,
+                        "endColumn": 72,
+                        "endOffset": 1937
                     }
                 }
             },
@@ -766,18 +766,18 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 4915,
-                    "endColumn": 160,
-                    "endOffset": 5071
+                    "startOffset": 3862,
+                    "endColumn": 80,
+                    "endOffset": 3938
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1822,
-                        "endColumn": 164,
-                        "endOffset": 1982
+                        "startOffset": 1942,
+                        "endColumn": 80,
+                        "endOffset": 2018
                     }
                 }
             },
@@ -785,18 +785,18 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 5076,
-                    "endColumn": 118,
-                    "endOffset": 5190
+                    "startOffset": 3943,
+                    "endColumn": 80,
+                    "endOffset": 4019
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1703,
-                        "endColumn": 118,
-                        "endOffset": 1817
+                        "startOffset": 2023,
+                        "endColumn": 80,
+                        "endOffset": 2099
                     }
                 }
             },
@@ -804,18 +804,18 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 5195,
-                    "endColumn": 137,
-                    "endOffset": 5328
+                    "startOffset": 4024,
+                    "endColumn": 80,
+                    "endOffset": 4100
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1565,
-                        "endColumn": 137,
-                        "endOffset": 1698
+                        "startOffset": 2104,
+                        "endColumn": 80,
+                        "endOffset": 2180
                     }
                 }
             },
@@ -823,18 +823,18 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 5333,
-                    "endColumn": 84,
-                    "endOffset": 5413
+                    "startOffset": 4105,
+                    "endColumn": 80,
+                    "endOffset": 4181
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 2890,
-                        "endColumn": 84,
-                        "endOffset": 2970
+                        "startOffset": 2185,
+                        "endColumn": 80,
+                        "endOffset": 2261
                     }
                 }
             },
@@ -842,18 +842,18 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 5418,
-                    "endColumn": 86,
-                    "endOffset": 5500
+                    "startOffset": 4186,
+                    "endColumn": 80,
+                    "endOffset": 4262
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 3660,
-                        "endColumn": 86,
-                        "endOffset": 3742
+                        "startOffset": 2266,
+                        "endColumn": 80,
+                        "endOffset": 2342
                     }
                 }
             },
@@ -861,18 +861,18 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 5505,
-                    "endColumn": 103,
-                    "endOffset": 5604
+                    "startOffset": 4267,
+                    "endColumn": 70,
+                    "endOffset": 4333
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-zh-rTW\\base_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 30,
+                        "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 3747,
-                        "endColumn": 103,
-                        "endOffset": 3846
+                        "startOffset": 2347,
+                        "endColumn": 70,
+                        "endOffset": 2413
                     }
                 }
             },
@@ -880,18 +880,18 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 5609,
-                    "endColumn": 102,
-                    "endOffset": 5707
+                    "startOffset": 4338,
+                    "endColumn": 86,
+                    "endOffset": 4420
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 4,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 282,
-                        "endColumn": 102,
-                        "endOffset": 380
+                        "startOffset": 2418,
+                        "endColumn": 86,
+                        "endOffset": 2500
                     }
                 }
             },
@@ -899,18 +899,18 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 5712,
-                    "endColumn": 100,
-                    "endOffset": 5808
+                    "startOffset": 4425,
+                    "endColumn": 93,
+                    "endOffset": 4514
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 385,
-                        "endColumn": 100,
-                        "endOffset": 481
+                        "startOffset": 2505,
+                        "endColumn": 93,
+                        "endOffset": 2594
                     }
                 }
             },
@@ -918,18 +918,18 @@
                 "to": {
                     "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 5813,
-                    "endColumn": 92,
-                    "endOffset": 5901
+                    "startOffset": 4519,
+                    "endColumn": 94,
+                    "endOffset": 4609
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 486,
-                        "endColumn": 92,
-                        "endOffset": 574
+                        "startOffset": 2599,
+                        "endColumn": 94,
+                        "endOffset": 2689
                     }
                 }
             },
@@ -937,18 +937,18 @@
                 "to": {
                     "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 5906,
-                    "endColumn": 98,
-                    "endOffset": 6000
+                    "startOffset": 4614,
+                    "endColumn": 141,
+                    "endOffset": 4751
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 7,
+                        "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 579,
-                        "endColumn": 98,
-                        "endOffset": 673
+                        "startOffset": 2694,
+                        "endColumn": 141,
+                        "endOffset": 2831
                     }
                 }
             },
@@ -956,18 +956,18 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 6005,
-                    "endColumn": 109,
-                    "endOffset": 6110
+                    "startOffset": 4756,
+                    "endColumn": 110,
+                    "endOffset": 4862
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 678,
-                        "endColumn": 109,
-                        "endOffset": 783
+                        "startOffset": 2836,
+                        "endColumn": 110,
+                        "endOffset": 2942
                     }
                 }
             },
@@ -975,18 +975,18 @@
                 "to": {
                     "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 6115,
-                    "endColumn": 92,
-                    "endOffset": 6203
+                    "startOffset": 4867,
+                    "endColumn": 110,
+                    "endOffset": 4973
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 788,
-                        "endColumn": 92,
-                        "endOffset": 876
+                        "startOffset": 2947,
+                        "endColumn": 110,
+                        "endOffset": 3053
                     }
                 }
             },
@@ -994,18 +994,18 @@
                 "to": {
                     "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 6208,
+                    "startOffset": 4978,
                     "endColumn": 91,
-                    "endOffset": 6295
+                    "endOffset": 5065
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 881,
+                        "startOffset": 3058,
                         "endColumn": 91,
-                        "endOffset": 968
+                        "endOffset": 3145
                     }
                 }
             },
@@ -1013,18 +1013,18 @@
                 "to": {
                     "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 6300,
-                    "endColumn": 108,
-                    "endOffset": 6404
+                    "startOffset": 5070,
+                    "endColumn": 90,
+                    "endOffset": 5156
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 11,
+                        "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 973,
-                        "endColumn": 108,
-                        "endOffset": 1077
+                        "startOffset": 3150,
+                        "endColumn": 90,
+                        "endOffset": 3236
                     }
                 }
             },
@@ -1032,18 +1032,18 @@
                 "to": {
                     "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 6409,
-                    "endColumn": 93,
-                    "endOffset": 6498
+                    "startOffset": 5161,
+                    "endColumn": 97,
+                    "endOffset": 5254
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 12,
+                        "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 1082,
-                        "endColumn": 93,
-                        "endOffset": 1171
+                        "startOffset": 3241,
+                        "endColumn": 97,
+                        "endOffset": 3334
                     }
                 }
             },
@@ -1051,18 +1051,18 @@
                 "to": {
                     "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 6503,
-                    "endColumn": 81,
-                    "endOffset": 6580
+                    "startOffset": 5259,
+                    "endColumn": 74,
+                    "endOffset": 5329
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 13,
+                        "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 1176,
-                        "endColumn": 81,
-                        "endOffset": 1253
+                        "startOffset": 3339,
+                        "endColumn": 74,
+                        "endOffset": 3409
                     }
                 }
             },
@@ -1070,18 +1070,18 @@
                 "to": {
                     "startLine": 58,
                     "startColumn": 4,
-                    "startOffset": 6585,
-                    "endColumn": 88,
-                    "endOffset": 6669
+                    "startOffset": 5334,
+                    "endColumn": 102,
+                    "endOffset": 5432
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 1258,
-                        "endColumn": 88,
-                        "endOffset": 1342
+                        "startOffset": 344,
+                        "endColumn": 102,
+                        "endOffset": 442
                     }
                 }
             },
@@ -1089,18 +1089,18 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 6674,
-                    "endColumn": 94,
-                    "endOffset": 6764
+                    "startOffset": 5437,
+                    "endColumn": 159,
+                    "endOffset": 5592
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-zh-rTW\\location_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 322,
-                        "endColumn": 94,
-                        "endOffset": 412
+                        "startOffset": 447,
+                        "endColumn": 159,
+                        "endOffset": 602
                     }
                 }
             },
@@ -1108,18 +1108,18 @@
                 "to": {
                     "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 6769,
-                    "endColumn": 91,
-                    "endOffset": 6856
+                    "startOffset": 5597,
+                    "endColumn": 116,
+                    "endOffset": 5709
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-zh-rTW\\location_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 230,
-                        "endColumn": 91,
-                        "endOffset": 317
+                        "startOffset": 607,
+                        "endColumn": 116,
+                        "endOffset": 719
                     }
                 }
             },
@@ -1127,18 +1127,18 @@
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 6861,
-                    "endColumn": 100,
-                    "endOffset": 6957
+                    "startOffset": 5714,
+                    "endColumn": 103,
+                    "endOffset": 5813
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 21,
+                        "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 1949,
-                        "endColumn": 100,
-                        "endOffset": 2045
+                        "startOffset": 724,
+                        "endColumn": 103,
+                        "endOffset": 823
                     }
                 }
             },
@@ -1146,973 +1146,683 @@
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 6962,
-                    "endColumn": 101,
-                    "endOffset": 7059
+                    "startOffset": 5818,
+                    "endColumn": 171,
+                    "endOffset": 5985
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-zh-rTW\\wallet_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 230,
-                        "endColumn": 101,
-                        "endOffset": 327
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\res\\merged\\debug\\values-zh-rTW\\values-zh-rTW.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 105,
-                    "endColumn": 94,
-                    "endOffset": 195
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 94,
-                        "endOffset": 385
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 200,
-                    "endColumn": 92,
-                    "endOffset": 288
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 390,
-                        "endColumn": 92,
-                        "endOffset": 478
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 293,
-                    "endColumn": 99,
-                    "endOffset": 388
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 483,
-                        "endColumn": 99,
-                        "endOffset": 578
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 393,
-                    "endColumn": 81,
-                    "endOffset": 470
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 583,
-                        "endColumn": 81,
-                        "endOffset": 660
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 475,
-                    "endColumn": 96,
-                    "endOffset": 567
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 665,
-                        "endColumn": 96,
-                        "endOffset": 757
+                        "startOffset": 828,
+                        "endColumn": 171,
+                        "endOffset": 995
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 572,
-                    "endColumn": 107,
-                    "endOffset": 675
+                    "startOffset": 5990,
+                    "endColumn": 174,
+                    "endOffset": 6160
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 762,
-                        "endColumn": 107,
-                        "endOffset": 865
+                        "startOffset": 1000,
+                        "endColumn": 174,
+                        "endOffset": 1170
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 680,
-                    "endColumn": 95,
-                    "endOffset": 771
+                    "startOffset": 6165,
+                    "endColumn": 117,
+                    "endOffset": 6278
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 870,
-                        "endColumn": 95,
-                        "endOffset": 961
+                        "startOffset": 1175,
+                        "endColumn": 117,
+                        "endOffset": 1288
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 776,
-                    "endColumn": 95,
-                    "endOffset": 867
+                    "startOffset": 6283,
+                    "endColumn": 123,
+                    "endOffset": 6402
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 966,
-                        "endColumn": 95,
-                        "endOffset": 1057
+                        "startOffset": 1293,
+                        "endColumn": 123,
+                        "endOffset": 1412
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 872,
-                    "endColumn": 94,
-                    "endOffset": 962
+                    "startOffset": 6407,
+                    "endColumn": 181,
+                    "endOffset": 6584
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\9.6.1\\res\\values-zh-rTW\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 181,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6589,
+                    "endColumn": 193,
+                    "endOffset": 6778
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1062,
-                        "endColumn": 94,
-                        "endOffset": 1152
+                        "startOffset": 1417,
+                        "endColumn": 193,
+                        "endOffset": 1606
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 967,
-                    "endColumn": 96,
-                    "endOffset": 1059
+                    "startOffset": 6783,
+                    "endColumn": 117,
+                    "endOffset": 6896
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1157,
-                        "endColumn": 96,
-                        "endOffset": 1249
+                        "startOffset": 1611,
+                        "endColumn": 117,
+                        "endOffset": 1724
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 1064,
-                    "endColumn": 94,
-                    "endOffset": 1154
+                    "startOffset": 6901,
+                    "endColumn": 102,
+                    "endOffset": 6999
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1254,
-                        "endColumn": 94,
-                        "endOffset": 1344
+                        "startOffset": 1729,
+                        "endColumn": 102,
+                        "endOffset": 1827
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 1159,
-                    "endColumn": 99,
-                    "endOffset": 1254
+                    "startOffset": 7004,
+                    "endColumn": 159,
+                    "endOffset": 7159
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1349,
-                        "endColumn": 99,
-                        "endOffset": 1444
+                        "startOffset": 1832,
+                        "endColumn": 159,
+                        "endOffset": 1987
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 1259,
-                    "endColumn": 112,
-                    "endOffset": 1367
+                    "startOffset": 7164,
+                    "endColumn": 116,
+                    "endOffset": 7276
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 1449,
-                        "endColumn": 112,
-                        "endOffset": 1557
+                        "startOffset": 1992,
+                        "endColumn": 116,
+                        "endOffset": 2104
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 72,
                     "startColumn": 4,
-                    "startOffset": 1372,
-                    "endColumn": 167,
-                    "endOffset": 1535
+                    "startOffset": 7281,
+                    "endColumn": 160,
+                    "endOffset": 7437
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 438,
-                        "endColumn": 171,
-                        "endOffset": 605
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1540,
-                    "endColumn": 154,
-                    "endOffset": 1690
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 2283,
-                        "endColumn": 158,
-                        "endOffset": 2437
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1695,
-                    "endColumn": 106,
-                    "endOffset": 1797
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 2012,
-                        "endColumn": 106,
-                        "endOffset": 2114
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1802,
-                    "endColumn": 200,
-                    "endOffset": 1998
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 30,
-                        "startColumn": 4,
-                        "startOffset": 3858,
-                        "endColumn": 204,
-                        "endOffset": 4058
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 19,
-                    "startColumn": 4,
-                    "startOffset": 2003,
-                    "endColumn": 117,
-                    "endOffset": 2116
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1777,
-                        "endColumn": 117,
-                        "endOffset": 1890
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 20,
-                    "startColumn": 4,
-                    "startOffset": 2121,
-                    "endColumn": 159,
-                    "endOffset": 2276
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1613,
-                        "endColumn": 163,
-                        "endOffset": 1772
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 21,
-                    "startColumn": 4,
-                    "startOffset": 2281,
-                    "endColumn": 115,
-                    "endOffset": 2392
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 1497,
-                        "endColumn": 115,
-                        "endOffset": 1608
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 22,
-                    "startColumn": 4,
-                    "startOffset": 2397,
-                    "endColumn": 161,
-                    "endOffset": 2554
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 742,
-                        "endColumn": 165,
-                        "endOffset": 903
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 23,
-                    "startColumn": 4,
-                    "startOffset": 2559,
-                    "endColumn": 118,
-                    "endOffset": 2673
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 1378,
-                        "endColumn": 118,
-                        "endOffset": 1492
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 24,
-                    "startColumn": 4,
-                    "startOffset": 2678,
-                    "endColumn": 171,
-                    "endOffset": 2845
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 1024,
-                        "endColumn": 175,
-                        "endOffset": 1195
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2850,
-                    "endColumn": 173,
-                    "endOffset": 3019
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 1200,
-                        "endColumn": 177,
-                        "endOffset": 1373
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 26,
-                    "startColumn": 4,
-                    "startOffset": 3024,
-                    "endColumn": 115,
-                    "endOffset": 3135
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 908,
-                        "endColumn": 115,
-                        "endOffset": 1019
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 27,
-                    "startColumn": 4,
-                    "startOffset": 3140,
-                    "endColumn": 130,
-                    "endOffset": 3266
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 3098,
-                        "endColumn": 130,
-                        "endOffset": 3224
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 28,
-                    "startColumn": 4,
-                    "startOffset": 3271,
-                    "endColumn": 113,
-                    "endOffset": 3380
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 23,
-                        "startColumn": 4,
-                        "startOffset": 2984,
-                        "endColumn": 113,
-                        "endOffset": 3093
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 29,
-                    "startColumn": 4,
-                    "startOffset": 3385,
-                    "endColumn": 131,
-                    "endOffset": 3512
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 610,
-                        "endColumn": 131,
-                        "endOffset": 737
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 30,
-                    "startColumn": 4,
-                    "startOffset": 3517,
-                    "endColumn": 131,
-                    "endOffset": 3644
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 22,
-                        "startColumn": 4,
-                        "startOffset": 2852,
-                        "endColumn": 131,
-                        "endOffset": 2979
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 3649,
-                    "endColumn": 110,
-                    "endOffset": 3755
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 2741,
-                        "endColumn": 110,
-                        "endOffset": 2847
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 3760,
-                    "endColumn": 142,
-                    "endOffset": 3898
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 295,
-                        "endColumn": 142,
-                        "endOffset": 433
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 33,
-                    "startColumn": 4,
-                    "startOffset": 3903,
-                    "endColumn": 124,
-                    "endOffset": 4023
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 170,
-                        "endColumn": 124,
-                        "endOffset": 290
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 4028,
-                    "endColumn": 127,
-                    "endOffset": 4151
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 32,
-                        "startColumn": 4,
-                        "startOffset": 4175,
-                        "endColumn": 127,
-                        "endOffset": 4298
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 35,
-                    "startColumn": 4,
-                    "startOffset": 4156,
-                    "endColumn": 111,
-                    "endOffset": 4263
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 31,
-                        "startColumn": 4,
-                        "startOffset": 4063,
-                        "endColumn": 111,
-                        "endOffset": 4170
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 36,
-                    "startColumn": 4,
-                    "startOffset": 4268,
-                    "endColumn": 121,
-                    "endOffset": 4385
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 25,
-                        "startColumn": 4,
-                        "startOffset": 3229,
-                        "endColumn": 121,
-                        "endOffset": 3346
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 4390,
-                    "endColumn": 195,
-                    "endOffset": 4581
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 3470,
-                        "endColumn": 199,
-                        "endOffset": 3665
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 38,
-                    "startColumn": 4,
-                    "startOffset": 4586,
-                    "endColumn": 118,
-                    "endOffset": 4700
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 26,
-                        "startColumn": 4,
-                        "startOffset": 3351,
-                        "endColumn": 118,
-                        "endOffset": 3465
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 39,
-                    "startColumn": 4,
-                    "startOffset": 4705,
-                    "endColumn": 102,
-                    "endOffset": 4803
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 4,
-                        "startOffset": 3670,
-                        "endColumn": 102,
-                        "endOffset": 3768
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 4808,
-                    "endColumn": 159,
-                    "endOffset": 4963
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 2119,
-                        "endColumn": 163,
-                        "endOffset": 2278
+                        "startOffset": 2109,
+                        "endColumn": 160,
+                        "endOffset": 2265
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 41,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 4968,
-                    "endColumn": 116,
-                    "endOffset": 5080
+                    "startOffset": 7442,
+                    "endColumn": 118,
+                    "endOffset": 7556
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 1895,
-                        "endColumn": 116,
-                        "endOffset": 2007
+                        "startOffset": 2270,
+                        "endColumn": 118,
+                        "endOffset": 2384
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 42,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 5085,
-                    "endColumn": 174,
-                    "endOffset": 5255
+                    "startOffset": 7561,
+                    "endColumn": 137,
+                    "endOffset": 7694
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 2562,
-                        "endColumn": 178,
-                        "endOffset": 2736
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 5260,
-                    "endColumn": 119,
-                    "endOffset": 5375
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 2442,
-                        "endColumn": 119,
-                        "endOffset": 2557
+                        "startOffset": 2389,
+                        "endColumn": 137,
+                        "endOffset": 2522
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 44,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 5380,
-                    "endColumn": 84,
-                    "endOffset": 5460
+                    "startOffset": 7699,
+                    "endColumn": 85,
+                    "endOffset": 7780
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.1.0\\res\\values-zh-rTW\\common_strings.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 29,
+                        "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 3773,
-                        "endColumn": 84,
-                        "endOffset": 3853
+                        "startOffset": 2527,
+                        "endColumn": 85,
+                        "endOffset": 2608
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 5465,
-                    "endColumn": 104,
-                    "endOffset": 5565
+                    "startOffset": 7785,
+                    "endColumn": 86,
+                    "endOffset": 7867
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2613,
+                        "endColumn": 86,
+                        "endOffset": 2695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 7872,
+                    "endColumn": 102,
+                    "endOffset": 7970
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\values-zh-rTW\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2700,
+                        "endColumn": 102,
+                        "endOffset": 2798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 7975,
+                    "endColumn": 92,
+                    "endOffset": 8063
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 92,
+                        "endOffset": 143
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 8068,
+                    "endColumn": 85,
+                    "endOffset": 8149
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 148,
+                        "endColumn": 85,
+                        "endOffset": 229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 8154,
+                    "endColumn": 77,
+                    "endOffset": 8227
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 234,
+                        "endColumn": 77,
+                        "endOffset": 307
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 8232,
+                    "endColumn": 86,
+                    "endOffset": 8314
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 312,
+                        "endColumn": 86,
+                        "endOffset": 394
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 8319,
+                    "endColumn": 93,
+                    "endOffset": 8408
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 399,
+                        "endColumn": 93,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 8413,
+                    "endColumn": 92,
+                    "endOffset": 8501
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 92,
+                        "endOffset": 581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 8506,
+                    "endColumn": 89,
+                    "endOffset": 8591
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 586,
+                        "endColumn": 89,
+                        "endOffset": 671
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 8596,
+                    "endColumn": 87,
+                    "endOffset": 8679
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 676,
+                        "endColumn": 87,
+                        "endOffset": 759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 8684,
+                    "endColumn": 87,
+                    "endOffset": 8767
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 764,
+                        "endColumn": 87,
+                        "endOffset": 847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 8772,
+                    "endColumn": 97,
+                    "endOffset": 8865
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 852,
+                        "endColumn": 97,
+                        "endOffset": 945
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 8870,
+                    "endColumn": 97,
+                    "endOffset": 8963
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 950,
+                        "endColumn": 97,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 8968,
+                    "endColumn": 80,
+                    "endOffset": 9044
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 80,
+                        "endOffset": 1124
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 9049,
+                    "endColumn": 78,
+                    "endOffset": 9123
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1129,
+                        "endColumn": 78,
+                        "endOffset": 1203
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 9128,
+                    "endColumn": 81,
+                    "endOffset": 9205
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1208,
+                        "endColumn": 81,
+                        "endOffset": 1285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 9210,
+                    "endColumn": 81,
+                    "endOffset": 9287
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1290,
+                        "endColumn": 81,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 9292,
+                    "endColumn": 88,
+                    "endOffset": 9376
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 88,
+                        "endOffset": 1456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9381,
+                    "endColumn": 94,
+                    "endOffset": 9471
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
                         "startOffset": 297,
-                        "endColumn": 104,
-                        "endOffset": 397
+                        "endColumn": 94,
+                        "endOffset": 387
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 5570,
+                    "startOffset": 9476,
+                    "endColumn": 91,
+                    "endOffset": 9563
+                },
+                "from": {
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.6.1\\res\\values-zh-rTW\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 91,
+                        "endOffset": 479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9568,
                     "endColumn": 100,
-                    "endOffset": 5666
+                    "endOffset": 9664
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
                     "position": {
-                        "startLine": 5,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 402,
+                        "startOffset": 1876,
                         "endColumn": 100,
-                        "endOffset": 498
+                        "endOffset": 1972
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 5671,
-                    "endColumn": 92,
-                    "endOffset": 5759
+                    "startOffset": 9669,
+                    "endColumn": 100,
+                    "endOffset": 9765
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\9.6.1\\res\\values-zh-rTW\\values.xml",
                     "position": {
-                        "startLine": 6,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 503,
-                        "endColumn": 92,
-                        "endOffset": 591
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 5764,
-                    "endColumn": 98,
-                    "endOffset": 5858
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 596,
-                        "endColumn": 98,
-                        "endOffset": 690
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 49,
-                    "startColumn": 4,
-                    "startOffset": 5863,
-                    "endColumn": 81,
-                    "endOffset": 5940
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 695,
-                        "endColumn": 81,
-                        "endOffset": 772
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 5945,
-                    "endColumn": 88,
-                    "endOffset": 6029
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\22.2.0\\res\\values-zh-rTW\\values-zh-rTW.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 777,
-                        "endColumn": 88,
-                        "endOffset": 861
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 51,
-                    "startColumn": 4,
-                    "startOffset": 6034,
-                    "endColumn": 101,
-                    "endOffset": 6131
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BluesGuitarRiffs1\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.1.0\\res\\values-zh-rTW\\wallet_strings.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 230,
-                        "endColumn": 101,
-                        "endOffset": 327
+                        "startOffset": 304,
+                        "endColumn": 100,
+                        "endOffset": 400
                     }
                 }
             }

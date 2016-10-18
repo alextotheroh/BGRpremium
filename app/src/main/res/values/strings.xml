@@ -27,7 +27,7 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
     <string name="title_activity_riff8">Riff8Activity</string>
     <string name="title_activity_riff9">Riff9Activity</string>
     <string name="title_activity_riff10">Riff10Activity</string>
-    <string name="riff1title">Riff 1</string>    
+    <string name="riff1title">Riff 1</string>
     <string name="playbutton">PLAY</string>
     <string name="backbutton">BACK TO RIFFS</string>
     <string name="riff2title">Riff 2</string>
@@ -42,7 +42,7 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
     <string name="subActivityHint">Turn the device sideways to make the tablature bigger.</string>
     <string name="credits">Design, development, and guitar work by Alex Totheroh. </string>
     <string name="email">alextotheroh@gmail.com</string>
-    
+
     <string name="banner_ad_unit_id_main">ca-app-pub-3940256099942544/6300978111</string>
     <string name="homebanner">ca-app-pub-5732286704167742/6890768114</string>
     <string name="riff1banner">ca-app-pub-5732286704167742/4462323312</string>
@@ -55,7 +55,7 @@ Part of: BluesGuitarRiffs, refers to MainActivity.java
     <string name="riff8banner">ca-app-pub-5732286704167742/7276188913</string>
     <string name="riff9banner">ca-app-pub-5732286704167742/6890768114</string>
     <string name="riff10banner">ca-app-pub-5732286704167742/8752922113</string>
-    
-    
+    <string name="title_activity_riff_detail">RiffDetailActivity</string>
+
 
 </resources>
