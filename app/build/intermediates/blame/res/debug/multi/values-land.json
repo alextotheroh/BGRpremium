@@ -87,13 +87,13 @@
                     "endOffset": 415
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.8.0\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 243,
-                        "endColumn": 91,
-                        "endOffset": 330
+                        "startColumn": 0,
+                        "startOffset": 183,
+                        "endColumn": 87,
+                        "endOffset": 270
                     }
                 }
             },
@@ -106,13 +106,13 @@
                     "endOffset": 506
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.8.0\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 335,
-                        "endColumn": 90,
-                        "endOffset": 421
+                        "startColumn": 0,
+                        "startOffset": 271,
+                        "endColumn": 86,
+                        "endOffset": 357
                     }
                 }
             },
@@ -125,13 +125,13 @@
                     "endOffset": 605
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.8.0\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 426,
-                        "endColumn": 98,
-                        "endOffset": 520
+                        "startColumn": 0,
+                        "startOffset": 358,
+                        "endColumn": 94,
+                        "endOffset": 452
                     }
                 }
             },
@@ -144,13 +144,13 @@
                     "endOffset": 700
                 },
                 "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.6.1\\res\\values-land\\values.xml",
+                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.8.0\\res\\values-land\\values.xml",
                     "position": {
                         "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 525,
-                        "endColumn": 94,
-                        "endOffset": 615
+                        "startColumn": 0,
+                        "startOffset": 453,
+                        "endColumn": 90,
+                        "endOffset": 543
                     }
                 }
             },
