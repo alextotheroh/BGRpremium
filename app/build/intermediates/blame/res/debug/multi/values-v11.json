@@ -409,27 +409,6 @@
                         "endOffset": 11994
                     }
                 }
-            },
-            {
-                "to": {
-                    "startLine": 165,
-                    "startColumn": 4,
-                    "startOffset": 12148,
-                    "endLine": 166,
-                    "endColumn": 8,
-                    "endOffset": 12269
-                },
-                "from": {
-                    "file": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\9.8.0\\res\\values-v11\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 0,
-                        "startOffset": 172,
-                        "endLine": 5,
-                        "endColumn": 8,
-                        "endOffset": 293
-                    }
-                }
             }
         ]
     }

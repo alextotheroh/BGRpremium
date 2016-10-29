@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion '23.0.2'
+    compileSdkVersion 24
+    buildToolsVersion '24.0.3'
 
     defaultConfig {
         applicationId "edu.indiana.bluesguitarriffs"
         minSdkVersion 14
-        targetSdkVersion 21
+        targetSdkVersion 24
     }
 
     buildTypes {
@@ -19,6 +19,7 @@ android {
 }
 
 dependencies {
-    compile 'com.google.android.gms:play-services:+'
-    compile 'com.android.support:support-v4:23.4.0'
+    compile 'com.android.support:support-v4:24.0.0'
+    compile 'com.android.support:appcompat-v7:24.0.0'
+    compile 'com.android.support:design:24.0.0'
 }

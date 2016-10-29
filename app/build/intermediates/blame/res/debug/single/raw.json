@@ -28,10 +28,6 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff3.wav"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics-impl\\9.8.0\\res\\raw\\gtm_analytics"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff7.wav",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff7.wav"
     },

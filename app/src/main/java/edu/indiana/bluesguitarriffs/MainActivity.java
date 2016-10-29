@@ -13,8 +13,7 @@
 
 package edu.indiana.bluesguitarriffs;
 
-import android.content.Intent;
-import android.net.Uri;
+import android.app.ActionBar;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
@@ -24,12 +23,6 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.view.MotionEvent;
 import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.Button;
-import android.widget.Toast;
-
-import java.util.List;
-import java.util.Vector;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -38,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        final Button rateBeg = (Button)this.findViewById(R.id.ratebeg);
+        final ActionBar actionBar = getActionBar();
         final ViewPager pager = (ViewPager) findViewById(R.id.viewPager);
         pager.setAdapter(new MyFragmentPagerAdapter(getSupportFragmentManager()));
 
@@ -50,23 +43,6 @@ public class MainActivity extends AppCompatActivity {
                 return false;
             }
         });
-        
-        // setting up the ability to go to rating page        
-        rateBeg.setOnClickListener(new OnClickListener(){
-
-            public void onClick(View v) {
-            	final Uri uri = Uri.parse("market://details?id=" + getApplicationContext().getPackageName());
-            	final Intent rateAppIntent = new Intent(Intent.ACTION_VIEW, uri);
-
-            	if (getPackageManager().queryIntentActivities(rateAppIntent, 0).size() > 0) {
-            	    startActivity(rateAppIntent);
-            	}
-            	else {
-            		Toast.makeText(getApplicationContext(), "Unable to open Marketplace.", Toast.LENGTH_SHORT).show();
-            	}
-            }
-        });
-        
     }
 
     private class MyFragmentPagerAdapter extends FragmentPagerAdapter {
