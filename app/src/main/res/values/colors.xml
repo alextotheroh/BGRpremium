@@ -2,4 +2,6 @@
 <resources>
     <color name="colorPrimary">#6284ba</color>
     <color name="tabIndicatorColor">#ffeca0</color>
+    <color name="colorBackground">#ffdfca</color>
+    <color name="colorButtonNumbers">#29508f</color>
 </resources>

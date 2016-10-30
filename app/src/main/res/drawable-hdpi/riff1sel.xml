@@ -1,14 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> 
-
-<!-- riff1sel.xml
-Primary Layout file for the riff 1 button on the home screen
-Created by: Alex Totheroh
-Created on: 3/1/2015
-Last Modified by: Alex Totheroh
-Last Modified on: 3/6/2015
-Assignment/Project: A290 Android Development Final Project
-Part of: BluesGuitarRiffs, refers to MainActivity.java
--->
+<?xml version="1.0" encoding="utf-8"?>
 
 <!-- This file's only purpose is to 'animate' the riff 1 button.  It does this by 
 displaying a slightly different image depending on whether the button is 

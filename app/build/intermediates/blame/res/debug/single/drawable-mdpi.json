@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\record.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\record.png"
     }
 ]

@@ -1,14 +1,10 @@
-
-
-    <LinearLayout  xmlns:android="http://schemas.android.com/apk/res/android"
-        android:id="@+id/LinearLayout1"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        android:paddingBottom="@dimen/activity_vertical_margin"
-        android:paddingLeft="@dimen/activity_horizontal_margin"
-        android:paddingRight="@dimen/activity_horizontal_margin"
-        android:paddingTop="@dimen/activity_vertical_margin">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:autofit="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorBackground">
 
 		<!-- sets page title
         <TextView
@@ -21,74 +17,302 @@
             -->
 
 	<LinearLayout
-		android:id="@+id/LinearLayout2"
-		android:layout_width="wrap_content"
-		android:layout_height="wrap_content"
+		android:id="@+id/LinearLayout1"
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
 		android:orientation="horizontal"
-		android:paddingBottom="@dimen/activity_vertical_margin"
-		android:paddingLeft="@dimen/activity_horizontal_margin"
-		android:paddingRight="@dimen/activity_horizontal_margin"
-		android:paddingTop="@dimen/activity_vertical_margin"
-        android:layout_gravity="center_horizontal">
+		android:padding="25dp"
+        android:layout_weight="1">
 
-        <Button
-            android:id="@+id/testbutton1"
-            style="?android:attr/buttonStyleSmall"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_marginTop="30dp"
-            android:layout_marginLeft="30dp"
-            android:textSize="9dp"
-            android:background="#ff33b5e5"
-            android:text="button button lol"/>
+        <FrameLayout
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp">
 
-        <Button
-            android:id="@+id/testbutton2"
-            style="?android:attr/buttonStyleSmall"
-            android:layout_width="50dp"
-            android:layout_height="50dp"
-            android:layout_marginTop="30dp"
-            android:layout_marginLeft="30dp"
-            android:layout_marginRight="30dp"
-            android:textSize="9dp"
-            android:background="#ff33b5e5"
-            android:text="button button lol" />
+            <ImageButton
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitCenter"
+                android:background="@null"/>
+
+            <edu.indiana.bluesguitarriffs.AutofitTextView
+                android:id="@+id/button1text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:includeFontPadding="false"
+                android:clickable="false"
+                android:text="1"
+                android:maxLines="1"
+                android:textSize="600sp"
+                android:textColor="@color/colorButtonNumbers"
+                android:gravity="center"/>
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp">
+
+            <ImageButton
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitCenter"
+                android:background="@null"/>
+
+            <edu.indiana.bluesguitarriffs.AutofitTextView
+                android:id="@+id/button2text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:includeFontPadding="false"
+                android:clickable="false"
+                android:text="2"
+                android:maxLines="1"
+                android:textSize="600sp"
+                android:textColor="@color/colorButtonNumbers"
+                android:gravity="center"/>
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp">
+
+            <ImageButton
+                android:id="@+id/button3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitCenter"
+                android:background="@null"/>
+
+            <edu.indiana.bluesguitarriffs.AutofitTextView
+                android:id="@+id/button3text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:includeFontPadding="false"
+                android:clickable="false"
+                android:text="3"
+                android:maxLines="1"
+                android:textSize="600sp"
+                android:textColor="@color/colorButtonNumbers"
+                android:gravity="center"/>
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp">
+
+            <ImageButton
+                android:id="@+id/button4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitCenter"
+                android:background="@null"/>
+
+            <edu.indiana.bluesguitarriffs.AutofitTextView
+                android:id="@+id/button4text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:includeFontPadding="false"
+                android:clickable="false"
+                android:text="4"
+                android:maxLines="1"
+                android:textSize="600sp"
+                android:textColor="@color/colorButtonNumbers"
+                android:gravity="center"/>
+
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_height="match_parent"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp">
+
+            <ImageButton
+                android:id="@+id/button5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitCenter"
+                android:background="@null"/>
+
+            <edu.indiana.bluesguitarriffs.AutofitTextView
+                android:id="@+id/button5text"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:includeFontPadding="false"
+                android:clickable="false"
+                android:text="5"
+                android:maxLines="1"
+                android:textSize="600sp"
+                android:textColor="@color/colorButtonNumbers"
+                android:gravity="center"/>
+
+        </FrameLayout>
 
         </LinearLayout>
 
         <LinearLayout
-            android:id="@+id/LinearLayout3"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:id="@+id/LinearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
             android:orientation="horizontal"
-            android:layout_gravity="center_horizontal"
-            android:paddingBottom="@dimen/activity_vertical_margin"
-            android:paddingLeft="@dimen/activity_horizontal_margin"
-            android:paddingRight="@dimen/activity_horizontal_margin"
-            android:paddingTop="@dimen/activity_vertical_margin">
+            android:padding="25dp"
+            android:layout_weight="1">
 
-            <Button
-                android:id="@+id/testbutton3"
-                style="?android:attr/buttonStyleSmall"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginTop="30dp"
-                android:layout_marginLeft="30dp"
-                android:textSize="9dp"
-                android:background="#ff33b5e5"
-                android:text="button button lol" />
+            <FrameLayout
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp">
 
-            <Button
-                android:id="@+id/testbutton4"
-                style="?android:attr/buttonStyleSmall"
-                android:layout_width="50dp"
-                android:layout_height="50dp"
-                android:layout_marginTop="30dp"
-                android:layout_marginLeft="30dp"
-                android:layout_marginRight="30dp"
-                android:textSize="9dp"
-                android:background="#ff33b5e5"
-                android:text="button button lol" />
+                <ImageButton
+                    android:id="@+id/button6"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitCenter"
+                    android:background="@null"/>
+
+                <edu.indiana.bluesguitarriffs.AutofitTextView
+                    android:id="@+id/button6text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:includeFontPadding="false"
+                    android:clickable="false"
+                    android:text="6"
+                    android:maxLines="1"
+                    android:textSize="600sp"
+                    android:textColor="@color/colorButtonNumbers"
+                    android:gravity="center"/>
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp">
+
+                <ImageButton
+                    android:id="@+id/button7"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitCenter"
+                    android:background="@null"/>
+
+                <edu.indiana.bluesguitarriffs.AutofitTextView
+                    android:id="@+id/button7text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:includeFontPadding="false"
+                    android:clickable="false"
+                    android:text="7"
+                    android:maxLines="1"
+                    android:textSize="600sp"
+                    android:textColor="@color/colorButtonNumbers"
+                    android:gravity="center"/>
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp">
+
+                <ImageButton
+                    android:id="@+id/button8"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitCenter"
+                    android:background="@null"/>
+
+                <edu.indiana.bluesguitarriffs.AutofitTextView
+                    android:id="@+id/button8text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:includeFontPadding="false"
+                    android:clickable="false"
+                    android:text="8"
+                    android:maxLines="1"
+                    android:textSize="600sp"
+                    android:textColor="@color/colorButtonNumbers"
+                    android:gravity="center"/>
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp">
+
+                <ImageButton
+                    android:id="@+id/button9"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitCenter"
+                    android:background="@null"/>
+
+                <edu.indiana.bluesguitarriffs.AutofitTextView
+                    android:id="@+id/button9text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:includeFontPadding="false"
+                    android:clickable="false"
+                    android:text="9"
+                    android:maxLines="1"
+                    android:textSize="600sp"
+                    android:textColor="@color/colorButtonNumbers"
+                    android:gravity="center"/>
+
+            </FrameLayout>
+
+            <FrameLayout
+                android:layout_height="match_parent"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="5dp">
+
+                <ImageButton
+                    android:id="@+id/button10"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:scaleType="fitCenter"
+                    android:background="@null"/>
+
+                <edu.indiana.bluesguitarriffs.AutofitTextView
+                    android:id="@+id/button10text"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:includeFontPadding="false"
+                    android:clickable="false"
+                    android:text="10"
+                    android:maxLines="1"
+                    android:textSize="600sp"
+                    android:textColor="@color/colorButtonNumbers"
+                    android:gravity="center"/>
+
+            </FrameLayout>
 
 
 	</LinearLayout>

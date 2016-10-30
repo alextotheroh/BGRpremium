@@ -8,6 +8,13 @@
         <item name="android:textAllCaps">true</item>
         <item name="android:textColor">?android:textColorPrimary</item>
     </style>
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/MyCustomTextAppearance</item>
+    </style>
+    <style name="MyCustomTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
     <style name="Platform.AppCompat" parent="Platform.V14.AppCompat"/>
     <style name="Platform.AppCompat.Light" parent="Platform.V14.AppCompat.Light"/>
     <style name="Platform.V14.AppCompat" parent="Platform.V11.AppCompat">

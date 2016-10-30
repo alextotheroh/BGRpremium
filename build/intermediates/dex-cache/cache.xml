@@ -85,14 +85,6 @@
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ad7fbb82992e19ce4424a825dc3c6220e8c9d071\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
-        <dex dex="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.1.0_0ea6eaf79120243edbb8a7f71692198eea385204\classes.dex" />
-    </item>
-    <item
         is-multidex="true"
         jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
@@ -100,6 +92,14 @@
         revision="24.0.3"
         sha1="e2c2df5ed6930e9d62aa8df22d9eba52a75bc51e">
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ad7fbb82992e19ce4424a825dc3c6220e8c9d071\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cf8c0ef60847621c7ad00b4f78dbfc9daba4af2">
+        <dex dex="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.1.0_0ea6eaf79120243edbb8a7f71692198eea385204\classes.dex" />
     </item>
     <item
         jar="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.1.0\jars\classes.jar"
@@ -204,6 +204,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.pixplicity.sharp\library\1.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8d755d4547f938d272dbbe9036b1559556c7e89d">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.pixplicity.sharp-library-1.0.2_07df06dd4db1a0a992a0a45eeb57303ee9b4095d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
@@ -233,7 +242,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0140830cefc0799d1027d0fb87415b7357f0c621">
+        sha1="36cc063fe3212247a372c277a879e50a08471529">
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65a33ad232499d70ea0ef43763b7c0d18cb39e6f\classes.dex" />
     </item>
     <item

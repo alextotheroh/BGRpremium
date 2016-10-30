@@ -16,7 +16,8 @@
         android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
         <activity
             android:name="edu.indiana.bluesguitarriffs.MainActivity"
-            android:label="@string/app_name" >
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -26,7 +27,8 @@
         <activity
             android:name="edu.indiana.bluesguitarriffs.RiffDetailActivity"
             android:label="RiffDetailActivity"
-            android:noHistory="true" >
+            android:noHistory="true"
+            android:screenOrientation="landscape" >
         </activity>
     </application>
 
