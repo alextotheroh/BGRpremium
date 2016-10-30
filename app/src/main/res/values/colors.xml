@@ -3,5 +3,6 @@
     <color name="colorPrimary">#6284ba</color>
     <color name="tabIndicatorColor">#ffeca0</color>
     <color name="colorBackground">#ffdfca</color>
-    <color name="colorButtonNumbers">#29508f</color>
+    <color name="colorButtonNumbers">#c0d2ee</color>
+    <color name="black">#0f0f0f</color>
 </resources>

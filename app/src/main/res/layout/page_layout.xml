@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/colorBackground">
+    android:background="@drawable/velvet">
 
 		<!-- sets page title
         <TextView
@@ -25,6 +25,7 @@
         android:layout_weight="1">
 
         <FrameLayout
+            android:id="@+id/frame1"
             android:layout_height="match_parent"
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -33,6 +34,7 @@
 
             <ImageButton
                 android:id="@+id/button1"
+                android:tag="1"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:scaleType="fitCenter"
@@ -43,7 +45,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:includeFontPadding="false"
-                android:clickable="false"
+                android:clickable="true"
+                android:onClick="onClick"
                 android:text="1"
                 android:maxLines="1"
                 android:textSize="600sp"
@@ -53,6 +56,7 @@
         </FrameLayout>
 
         <FrameLayout
+            android:id="@+id/frame2"
             android:layout_height="match_parent"
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -81,6 +85,7 @@
         </FrameLayout>
 
         <FrameLayout
+            android:id="@+id/frame3"
             android:layout_height="match_parent"
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -109,6 +114,7 @@
         </FrameLayout>
 
         <FrameLayout
+            android:id="@+id/frame4"
             android:layout_height="match_parent"
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -137,6 +143,7 @@
         </FrameLayout>
 
         <FrameLayout
+            android:id="@+id/frame5"
             android:layout_height="match_parent"
             android:layout_width="0dp"
             android:layout_weight="1"
@@ -175,6 +182,7 @@
             android:layout_weight="1">
 
             <FrameLayout
+                android:id="@+id/frame6"
                 android:layout_height="match_parent"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -203,6 +211,7 @@
             </FrameLayout>
 
             <FrameLayout
+                android:id="@+id/frame7"
                 android:layout_height="match_parent"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -231,6 +240,7 @@
             </FrameLayout>
 
             <FrameLayout
+                android:id="@+id/frame8"
                 android:layout_height="match_parent"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -259,6 +269,7 @@
             </FrameLayout>
 
             <FrameLayout
+                android:id="@+id/frame9"
                 android:layout_height="match_parent"
                 android:layout_width="0dp"
                 android:layout_weight="1"
@@ -287,6 +298,7 @@
             </FrameLayout>
 
             <FrameLayout
+                android:id="@+id/frame10"
                 android:layout_height="match_parent"
                 android:layout_width="0dp"
                 android:layout_weight="1"

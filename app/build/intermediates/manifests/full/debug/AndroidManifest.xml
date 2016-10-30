@@ -14,13 +14,23 @@
         android:label="@string/app_name"
         android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
         <activity
-            android:name="edu.indiana.bluesguitarriffs.MainActivity"
+            android:name="edu.indiana.bluesguitarriffs.SplashScreen"
             android:label="@string/app_name"
             android:screenOrientation="landscape" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="edu.indiana.bluesguitarriffs.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="landscape" >
+            <intent-filter>
+                <action android:name="edu.indiana.bluesguitarriffs.MAINACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </activity>
         <activity

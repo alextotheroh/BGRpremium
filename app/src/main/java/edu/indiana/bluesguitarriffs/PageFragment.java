@@ -1,6 +1,7 @@
 package edu.indiana.bluesguitarriffs;
 
 import android.content.res.AssetManager;
+import android.graphics.Typeface;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.text.Editable;
@@ -9,6 +10,7 @@ import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.AnimationUtils;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
@@ -48,6 +50,17 @@ public class PageFragment extends Fragment {
         final TextView buttonText9 = (TextView)v.findViewById(R.id.button9text);
         final TextView buttonText10 = (TextView)v.findViewById(R.id.button10text);
 
+        final FrameLayout button1Frame = (FrameLayout)v.findViewById(R.id.frame1);
+        final FrameLayout button2Frame = (FrameLayout)v.findViewById(R.id.frame2);
+        final FrameLayout button3Frame = (FrameLayout)v.findViewById(R.id.frame3);
+        final FrameLayout button4Frame = (FrameLayout)v.findViewById(R.id.frame4);
+        final FrameLayout button5Frame = (FrameLayout)v.findViewById(R.id.frame5);
+        final FrameLayout button6Frame = (FrameLayout)v.findViewById(R.id.frame6);
+        final FrameLayout button7Frame = (FrameLayout)v.findViewById(R.id.frame7);
+        final FrameLayout button8Frame = (FrameLayout)v.findViewById(R.id.frame8);
+        final FrameLayout button9Frame = (FrameLayout)v.findViewById(R.id.frame9);
+        final FrameLayout button10Frame = (FrameLayout)v.findViewById(R.id.frame10);
+
         ArrayList<View> buttonImages = new ArrayList<>();
         buttonImages.add(imageButton1);
         buttonImages.add(imageButton2);
@@ -77,13 +90,22 @@ public class PageFragment extends Fragment {
             Sharp.loadResource(getResources(), R.raw.record).into(button);
         }
 
+        Typeface font = Typeface.createFromAsset(getActivity().getAssets(), "Prisma.ttf");
+
         // set the text for each button based on the page number
         int currentButtonText = pageNumber + (9 * (pageNumber-1));
         for (TextView buttonText: buttonTexts) {
+            buttonText.setTypeface(font);
             buttonText.setText(Integer.toString(currentButtonText));
             FrameLayout.LayoutParams params = (FrameLayout.LayoutParams)buttonText.getLayoutParams();
-            params.setMargins(0, Math.round(-1 * (buttonText.getTextSize()/100)), 0, 0);
+            params.setMargins(0, (-1 * Math.round(buttonText.getTextSize())/30), 0, 0);
             buttonText.setLayoutParams(params);
+            buttonText.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View v) {
+                    v.startAnimation(AnimationUtils.loadAnimation(getContext(), R.anim.shake));
+                }
+            });
             currentButtonText++;
         }
 

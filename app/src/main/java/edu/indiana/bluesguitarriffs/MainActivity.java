@@ -42,11 +42,11 @@ public class MainActivity extends AppCompatActivity {
         //setSupportActionBar(toolbar);
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.tab_layout);
-        tabLayout.addTab(tabLayout.newTab().setText("Page 1"));
-        tabLayout.addTab(tabLayout.newTab().setText("Page 2"));
-        tabLayout.addTab(tabLayout.newTab().setText("Page 3"));
-        tabLayout.addTab(tabLayout.newTab().setText("Page 4"));
-        tabLayout.addTab(tabLayout.newTab().setText("Page 5"));
+        tabLayout.addTab(tabLayout.newTab().setText("1 - 10"));
+        tabLayout.addTab(tabLayout.newTab().setText("11 - 20"));
+        tabLayout.addTab(tabLayout.newTab().setText("21 - 30"));
+        tabLayout.addTab(tabLayout.newTab().setText("31 - 40"));
+        tabLayout.addTab(tabLayout.newTab().setText("41 - 50"));
         tabLayout.setTabGravity(TabLayout.GRAVITY_FILL);
 
         pager.setAdapter(new MyFragmentPagerAdapter(getSupportFragmentManager(), tabLayout.getTabCount()));

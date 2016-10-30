@@ -36,11 +36,11 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff5.wav"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff2.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff2.wav"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\record.svg",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\record.svg"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff2.wav",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff2.wav"
     }
 ]
