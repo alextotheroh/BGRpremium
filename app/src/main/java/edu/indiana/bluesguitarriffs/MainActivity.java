@@ -1,16 +1,3 @@
-/*MainActivity.java
-*
-*Contains the Java code for the
-*Primary Activity in this project
-*
-*Created by: Alex Totheroh
-*Created on: 3/1/15
-*Last Modified by: Alex Totheroh
-*Last Modified on: 3/6/2015
-*Assignment/Project: A290 Android Development Final Project
-*Part of: BluesGuitarRiffs, refers to activity_main.xml layout file
-**/
-
 package edu.indiana.bluesguitarriffs;
 
 import android.os.Bundle;
@@ -20,15 +7,8 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.Toolbar;
-import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.MotionEvent;
-import android.view.View;
-import android.view.ViewGroup;
-
-import com.pixplicity.sharp.Sharp;
 
 
 public class MainActivity extends AppCompatActivity {
