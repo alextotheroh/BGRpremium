@@ -5,40 +5,33 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="178754526104594"
+    timestamp="415114956113208"
     token="2211448358063026582"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="1272" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="209" />
     <task
         name="verifier"
-        duration="0" />
+        duration="9" />
 
     <artifact
-        location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
+        location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="178424717302654"
+        timestamp="415114956113208"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="178754526104594"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
     </build>
 
 </instant-run>
