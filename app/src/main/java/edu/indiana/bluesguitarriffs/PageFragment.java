@@ -1,5 +1,6 @@
 package edu.indiana.bluesguitarriffs;
 
+import android.content.Intent;
 import android.content.res.AssetManager;
 import android.graphics.Typeface;
 import android.os.Bundle;
@@ -24,9 +25,6 @@ public class PageFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         int pageNumber = getArguments().getInt("page_number");
         View v = inflater.inflate(R.layout.page_layout, container, false);
-
-        //TextView tv = (TextView)v.findViewById(R.id.PageTitle);
-        //tv.setText("Page " + Integer.toString(pageNumber));
 
         final View imageButton1 = v.findViewById(R.id.button1);
         final View imageButton2 = v.findViewById(R.id.button2);
@@ -93,8 +91,10 @@ public class PageFragment extends Fragment {
         Typeface font = Typeface.createFromAsset(getActivity().getAssets(), "Prisma.ttf");
 
         // set the text for each button based on the page number
+        // also set onClick listeners
         int currentButtonText = pageNumber + (9 * (pageNumber-1));
         for (TextView buttonText: buttonTexts) {
+            final int riffNumber = currentButtonText;
             buttonText.setTypeface(font);
             buttonText.setText(Integer.toString(currentButtonText));
             FrameLayout.LayoutParams params = (FrameLayout.LayoutParams)buttonText.getLayoutParams();
@@ -104,6 +104,9 @@ public class PageFragment extends Fragment {
                 @Override
                 public void onClick(View v) {
                     v.startAnimation(AnimationUtils.loadAnimation(getContext(), R.anim.shake));
+                    Intent intent = new Intent(getActivity(), RiffDetailActivity.class);
+                    intent.putExtra("riffNumber", riffNumber);
+                    getActivity().startActivity(intent);
                 }
             });
             currentButtonText++;
