@@ -12,6 +12,10 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff43.mp3"
     },
     {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff5.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff5.mp3"
+    },
+    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff49.mp3",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff49.mp3"
     },
@@ -28,6 +32,10 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff44.mp3"
     },
     {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff4.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff4.mp3"
+    },
+    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff21.mp3",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff21.mp3"
     },
@@ -36,20 +44,16 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff13.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff1.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff1.wav"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff4.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff4.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff1.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff1.mp3"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff48.mp3",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff48.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff6.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff6.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff6.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff6.mp3"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff26.mp3",
@@ -60,8 +64,12 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff29.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff9.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff9.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff3.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff3.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff9.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff9.mp3"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff12.mp3",
@@ -112,10 +120,6 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff38.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff8.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff8.wav"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff24.mp3",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff24.mp3"
     },
@@ -124,8 +128,12 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff32.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff10.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff10.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff2.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff2.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff8.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff8.mp3"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff41.mp3",
@@ -140,10 +148,6 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff47.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff3.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff3.wav"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff40.mp3",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff40.mp3"
     },
@@ -152,12 +156,16 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff16.mp3"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff7.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff7.wav"
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff7.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff7.mp3"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff39.mp3",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff39.mp3"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff10.mp3",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff10.mp3"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff17.mp3",
@@ -190,14 +198,6 @@
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff30.mp3",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff30.mp3"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff5.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff5.wav"
-    },
-    {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\riff2.wav",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\raw\\riff2.wav"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\raw\\record.svg",

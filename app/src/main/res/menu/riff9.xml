@@ -1,6 +1,6 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="edu.indiana.bluesguitarriffs.Riff9Activity" >
+    tools:context="edu.indiana.bluesguitarriffsrockstar.Riff9Activity" >
 
     <item
         android:id="@+id/action_settings"

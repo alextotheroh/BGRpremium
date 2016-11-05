@@ -1,50 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86_64,x86"
-    api-level="24"
-    density="hdpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="430495321862636"
+    timestamp="437151523776349"
     token="2211448358063026582"
-    verifier="COLD_SWAP_REQUESTED" >
+    verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="473" />
+        duration="392" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="95" />
+        duration="421" />
     <task
         name="verifier"
-        duration="19" />
+        duration="152" />
 
     <artifact
-        location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-        type="RESOURCES" />
-    <artifact
-        location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-        type="DEX" />
+        location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
     <build
-        timestamp="428193053556391"
+        timestamp="437151523776349"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build
-        timestamp="430495321862636"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\instant-run-resources\resources-debug.ir.ap_"
-            type="RESOURCES" />
-        <artifact
-            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

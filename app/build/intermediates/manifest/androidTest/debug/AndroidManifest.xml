@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="edu.indiana.bluesguitarriffs.test">
+    package="edu.indiana.bluesguitarriffsrockstar.test">
 
     <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="24" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="edu.indiana.bluesguitarriffs"
+                     android:targetPackage="edu.indiana.bluesguitarriffsrockstar"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for edu.indiana.bluesguitarriffs"/>
+                     android:label="Tests for edu.indiana.bluesguitarriffsrockstar"/>
 </manifest>

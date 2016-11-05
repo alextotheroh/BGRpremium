@@ -40,7 +40,7 @@
                 android:scaleType="fitCenter"
                 android:background="@null"/>
 
-            <edu.indiana.bluesguitarriffs.AutofitTextView
+            <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                 android:id="@+id/button1text"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -70,7 +70,7 @@
                 android:scaleType="fitCenter"
                 android:background="@null"/>
 
-            <edu.indiana.bluesguitarriffs.AutofitTextView
+            <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                 android:id="@+id/button2text"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -99,7 +99,7 @@
                 android:scaleType="fitCenter"
                 android:background="@null"/>
 
-            <edu.indiana.bluesguitarriffs.AutofitTextView
+            <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                 android:id="@+id/button3text"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -128,7 +128,7 @@
                 android:scaleType="fitCenter"
                 android:background="@null"/>
 
-            <edu.indiana.bluesguitarriffs.AutofitTextView
+            <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                 android:id="@+id/button4text"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -157,7 +157,7 @@
                 android:scaleType="fitCenter"
                 android:background="@null"/>
 
-            <edu.indiana.bluesguitarriffs.AutofitTextView
+            <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                 android:id="@+id/button5text"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -196,7 +196,7 @@
                     android:scaleType="fitCenter"
                     android:background="@null"/>
 
-                <edu.indiana.bluesguitarriffs.AutofitTextView
+                <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                     android:id="@+id/button6text"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -225,7 +225,7 @@
                     android:scaleType="fitCenter"
                     android:background="@null"/>
 
-                <edu.indiana.bluesguitarriffs.AutofitTextView
+                <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                     android:id="@+id/button7text"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -254,7 +254,7 @@
                     android:scaleType="fitCenter"
                     android:background="@null"/>
 
-                <edu.indiana.bluesguitarriffs.AutofitTextView
+                <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                     android:id="@+id/button8text"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -283,7 +283,7 @@
                     android:scaleType="fitCenter"
                     android:background="@null"/>
 
-                <edu.indiana.bluesguitarriffs.AutofitTextView
+                <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                     android:id="@+id/button9text"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
@@ -312,7 +312,7 @@
                     android:scaleType="fitCenter"
                     android:background="@null"/>
 
-                <edu.indiana.bluesguitarriffs.AutofitTextView
+                <edu.indiana.bluesguitarriffsrockstar.AutofitTextView
                     android:id="@+id/button10text"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
