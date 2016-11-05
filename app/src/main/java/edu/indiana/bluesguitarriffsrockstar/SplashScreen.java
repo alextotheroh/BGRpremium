@@ -5,13 +5,14 @@ import android.content.ActivityNotFoundException;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.Handler;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.Toast;
 
 public class SplashScreen extends Activity {
 
-    final int displayTime = 4000;
+    final int displayTime = 3000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -34,19 +35,15 @@ public class SplashScreen extends Activity {
         });
 
         // dismiss splash screen after configured seconds
-        Thread timerThread = new Thread(){
-            public void run(){
-                try{
-                    sleep(displayTime);
-                }catch(InterruptedException e){
-                    e.printStackTrace();
-                }finally{
-                    Intent intent = new Intent(SplashScreen.this, MainActivity.class);
-                    startActivity(intent);
-                }
+        new Handler().postDelayed(new Runnable(){
+            @Override
+            public void run() {
+                /* Create an Intent that will start the Menu-Activity. */
+                Intent mainIntent = new Intent(SplashScreen.this, MainActivity.class);
+                SplashScreen.this.startActivity(mainIntent);
+                SplashScreen.this.finish();
             }
-        };
-        timerThread.start();
+        }, displayTime);
     }
 
     @Override
