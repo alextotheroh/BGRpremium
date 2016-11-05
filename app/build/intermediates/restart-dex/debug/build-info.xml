@@ -5,33 +5,75 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.2"
-    timestamp="415114956113208"
+    timestamp="429080623767918"
     token="2211448358063026582"
-    verifier="FULL_BUILD_REQUESTED" >
+    verifier="COMPATIBLE" >
 
     <task
         name="javac"
-        duration="1272" />
+        duration="146" />
     <task
         name="instant-run-dex"
-        duration="0" />
+        duration="13" />
     <task
         name="instant-run-transform"
-        duration="209" />
+        duration="30" />
     <task
         name="verifier"
-        duration="9" />
+        duration="2" />
 
     <artifact
-        location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\outputs\apk\app-debug.apk"
-        type="MAIN" />
+        location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
 
     <build
-        timestamp="415114956113208"
+        timestamp="428193053556391"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
+    </build>
+    <build
+        timestamp="428825038586242"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_5\classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="428927265113764"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\builds\debug\428927265113764\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="428996641277237"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\builds\debug\428996641277237\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="429021035056526"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\builds\debug\429021035056526\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="429037652337084"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\builds\debug\429037652337084\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="429080623767918"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
     </build>
 
 </instant-run>

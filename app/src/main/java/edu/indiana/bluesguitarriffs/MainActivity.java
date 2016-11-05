@@ -10,6 +10,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.Menu;
 import android.view.MenuItem;
 
+import java.util.HashMap;
+import java.util.Map;
+
 
 public class MainActivity extends AppCompatActivity {
 
@@ -47,12 +50,13 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-
+    /**
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         getMenuInflater().inflate(R.menu.main, menu);
         return true;
     }
+     **/
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
