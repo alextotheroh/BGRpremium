@@ -18,6 +18,15 @@
         <dex dex="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.1.0_ef3047ba69bf9976814803184d68c539ce2e8dde\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.pixplicity.sharp\library\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8d755d4547f938d272dbbe9036b1559556c7e89d">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\pre-dexed\release\com.pixplicity.sharp-library-1.0.2_07df06dd4db1a0a992a0a45eeb57303ee9b4095d.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
         jumboMode="true"
@@ -90,7 +99,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="9c647144b994e621c06da491a7de359d8d839b96">
+        sha1="0ed6c5cd4a6a8e599531ef9e69ea56f635b64ddb">
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ad7fbb82992e19ce4424a825dc3c6220e8c9d071\classes.dex" />
     </item>
     <item
@@ -161,6 +170,24 @@
         <dex dex="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_bb24731c4886fa5df6558bd0722df43b6df2f3f9\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\pre-dexed\release\com.android.support-design-24.0.0_272e57258b3090b72e84515a7910d3cfc7fac641.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-24.0.0_6ee672bc223ea72e63bcdc927445ee536afad0e4.jar" />
+    </item>
+    <item
         jar="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -176,6 +203,24 @@
         revision="24.0.3"
         sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_6263e11d50c4f00dfc2456958ed948a6489e3517\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-24.0.0_5ac65e35b49372d8201c2a53392afbd65bf68814.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\pre-dexed\release\support-annotations-24.0.0_7107664e388cf2c106c1aedc17673d4e02a1f858.jar" />
     </item>
     <item
         jar="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
@@ -221,6 +266,15 @@
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65a33ad232499d70ea0ef43763b7c0d18cb39e6f\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\pre-dexed\release\internal_impl-24.0.0_83e4ee8e2c1c642379b2c4431e19a92333abde5a.jar" />
+    </item>
+    <item
         jar="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -237,12 +291,21 @@
         <dex dex="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.1.0_00f9c82947a17f3af855d6e2dab0927ab260729f\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-24.0.0_ab58f62b9cbc56fe86e1ad25476f4eeb8859935d.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="52b2c898c29afe2bff0f0cae18266a39c5929e51">
+        sha1="53756142429c5330d01fcc747fc575eaca463afc">
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65a33ad232499d70ea0ef43763b7c0d18cb39e6f\classes.dex" />
     </item>
     <item
@@ -377,6 +440,15 @@
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_7107664e388cf2c106c1aedc17673d4e02a1f858\classes.dex" />
     </item>
     <item
+        is-multidex="false"
+        jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-24.0.0_6263e11d50c4f00dfc2456958ed948a6489e3517.jar" />
+    </item>
+    <item
         is-multidex="true"
         jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
         jumboMode="true"
@@ -427,6 +499,15 @@
         revision="23.0.2"
         sha1="f8efd0096475e0daf054267b61544e10dc776503">
         <dex dex="C:\Users\Alex\StudioProjects\BluesGuitarRiffs1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_dbdfab0643975c53f4223ae6019c0c719c8d55cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-24.0.0_da32a3b5617ed782c135dfaeb9c776ef9fc5570c.jar" />
     </item>
 
 </items>
