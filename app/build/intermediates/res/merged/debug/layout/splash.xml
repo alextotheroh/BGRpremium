@@ -6,6 +6,7 @@
     android:background="@drawable/splash_image">
 
     <ImageButton
+        android:id="@+id/rateBegButton"
         android:layout_height="90dp"
         android:layout_width="90dp"
         android:background="@null"

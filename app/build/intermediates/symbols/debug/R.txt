@@ -687,7 +687,7 @@ int id action_menu_presenter 0x7f0c0003
 int id action_mode_bar 0x7f0c005a
 int id action_mode_bar_stub 0x7f0c0059
 int id action_mode_close_button 0x7f0c003e
-int id action_settings 0x7f0c00a9
+int id action_settings 0x7f0c00aa
 int id activity_chooser_view_content 0x7f0c003f
 int id add 0x7f0c001a
 int id alertTitle 0x7f0c004b
@@ -787,6 +787,7 @@ int id playButton 0x7f0c0070
 int id progress_circular 0x7f0c0006
 int id progress_horizontal 0x7f0c0007
 int id radio 0x7f0c0056
+int id rateBegButton 0x7f0c00a9
 int id riffImage 0x7f0c006f
 int id right 0x7f0c0028
 int id screen 0x7f0c001c

@@ -2577,7 +2577,7 @@ containing a value of this type.
         public static final int action_mode_bar=0x7f0c005a;
         public static final int action_mode_bar_stub=0x7f0c0059;
         public static final int action_mode_close_button=0x7f0c003e;
-        public static final int action_settings=0x7f0c00a9;
+        public static final int action_settings=0x7f0c00aa;
         public static final int activity_chooser_view_content=0x7f0c003f;
         public static final int add=0x7f0c001a;
         public static final int alertTitle=0x7f0c004b;
@@ -2677,6 +2677,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f0c0006;
         public static final int progress_horizontal=0x7f0c0007;
         public static final int radio=0x7f0c0056;
+        public static final int rateBegButton=0x7f0c00a9;
         public static final int riffImage=0x7f0c006f;
         public static final int right=0x7f0c0028;
         public static final int screen=0x7f0c001c;

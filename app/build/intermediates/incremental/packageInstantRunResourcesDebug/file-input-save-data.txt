@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Nov 04 20:49:50 EDT 2016
+#Fri Nov 04 21:25:18 EDT 2016
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-v21\\abc_edit_text_material.xml
 14.set=ANDROID_RESOURCE
