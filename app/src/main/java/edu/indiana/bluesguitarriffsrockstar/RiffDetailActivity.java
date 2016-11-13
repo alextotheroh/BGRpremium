@@ -38,7 +38,7 @@ public class RiffDetailActivity extends Activity {
         // adjust margins if riff is a problem riff
         if (riffNumber.equals("14") || riffNumber.equals("16") || riffNumber.equals("23") || riffNumber.equals("25") || riffNumber.equals("31") || riffNumber.equals("33")) {
             RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(RelativeLayout.LayoutParams.MATCH_PARENT, RelativeLayout.LayoutParams.WRAP_CONTENT);
-            params.setMargins(65, 25, 65, 0);
+            params.setMargins(175, 25, 175, 0);
             tabImage.setLayoutParams(params);
         }
 
