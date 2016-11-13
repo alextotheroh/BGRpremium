@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\menu\\riff2.xml"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\release\\menu\\riff1.xml",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\menu\\riff1.xml"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\release\\menu\\riff5.xml",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\menu\\riff5.xml"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\release\\menu\\riff1.xml",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\menu\\riff1.xml"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\release\\menu\\riff4.xml",

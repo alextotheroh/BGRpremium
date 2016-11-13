@@ -32,10 +32,6 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\drawable-hdpi\\riff26tab.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rate_button.png",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\drawable-hdpi\\rate_button.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff17tab.png",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\drawable-hdpi\\riff17tab.png"
     },
@@ -68,10 +64,6 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_arrow_back_black_24dp.png"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\splash_image.png",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\drawable-hdpi\\splash_image.png"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff36tab.png",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\drawable-hdpi\\riff36tab.png"
     },
@@ -90,6 +82,10 @@
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff20tab.png",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\drawable-hdpi\\riff20tab.png"
+    },
+    {
+        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\rate_beg_text.png",
+        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\drawable-hdpi\\rate_beg_text.png"
     },
     {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\riff2tab.png",

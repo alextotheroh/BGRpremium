@@ -26,6 +26,20 @@
         android:layout_below="@+id/riffImage"
         android:scaleType="fitXY"/>
 
+    <!-- rate beg imagebutton -->
+    <ImageButton
+        android:id="@+id/rateBeg"
+        android:layout_width="170dp"
+        android:layout_height="130dp"
+        android:src="@drawable/rate_beg_text"
+        android:background="@null"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:scaleType="fitEnd"
+        android:visibility="gone"/>
+
     <!-- back button, which is a FAB -->
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"

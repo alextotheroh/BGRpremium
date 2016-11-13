@@ -72,10 +72,6 @@
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.0.0\\res\\layout\\design_menu_item_action_area.xml"
     },
     {
-        "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\release\\layout\\splash.xml",
-        "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\src\\main\\res\\layout\\splash.xml"
-    },
-    {
         "merged": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
         "source": "C:\\Users\\Alex\\StudioProjects\\BGRpremium\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0\\res\\layout\\select_dialog_item_material.xml"
     },

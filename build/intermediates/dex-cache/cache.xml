@@ -99,7 +99,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="0ed6c5cd4a6a8e599531ef9e69ea56f635b64ddb">
+        sha1="644127f357e72937dc5dea559274975ef4c3fa03">
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_ad7fbb82992e19ce4424a825dc3c6220e8c9d071\classes.dex" />
     </item>
     <item
@@ -305,7 +305,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.3"
-        sha1="53756142429c5330d01fcc747fc575eaca463afc">
+        sha1="3f7fde5dc1a333d067ad3fb7682e83117b24dc16">
         <dex dex="C:\Users\Alex\StudioProjects\BGRpremium\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65a33ad232499d70ea0ef43763b7c0d18cb39e6f\classes.dex" />
     </item>
     <item
